@@ -1,0 +1,1005 @@
+protein_name,gene_symbol,uniprot_id
+2-hydroxyacyl-CoA lyase (EC 4.1.2.63),HACL2,A1L0T0
+"3'-5' exoribonuclease HELZ2 (EC 3.1.13.1) (ATP-dependent RNA helicase PRIC285) (EC 3.6.4.13) (Helicase with zinc finger 2, transcriptional coactivator) (Helicase with zinc finger domain 2) (PPAR-alpha-interacting complex protein 285) (PPAR-gamma DNA-binding domain-interacting protein 1) (PDIP1) (PPAR-gamma DBD-interacting protein 1) (Peroxisomal proliferator-activated receptor A-interacting complex 285 kDa protein)",HELZ2,Q9BYK8
+48 kDa protein,SNRNP48,Q6IEG0
+78 kDa glucose-regulated protein (Binding-immunoglobulin protein) (Heat shock protein 70 family protein 5) (Heat shock protein family A member 5) (Immunoglobulin heavy chain-binding protein),HSPA5,P11021
+A kinase (PRKA) anchor protein 6,AKAP8,O43823
+A-kinase anchor protein 9 (AKAP-9) (A-kinase anchor protein 350 kDa) (AKAP 350) (hgAKAP 350) (A-kinase anchor protein 450 kDa) (AKAP 450) (AKAP 120-like protein) (Centrosome- and Golgi-localized PKN-associated protein) (CG-NAP) (Protein hyperion) (Protein kinase A-anchoring protein 9) (PRKA9) (Protein yotiao),AKAP9,Q99996
+A-kinase anchoring protein 9,AKAP9,A0A7P0T939
+ACTG1 protein,ACTG1,Q96FU6
+AMP deaminase 3 (EC 3.5.4.6) (AMP deaminase isoform E) (Erythrocyte AMP deaminase),AMPD3,Q01432
+ANKRD36 protein,ANKRD36,A1A5B0
+APOB protein,APOB,P78482
+APOL1,APOL1,A5PL32
+APOL1 protein,APOL1,A5PL32
+Actin beta,ACTB,E7EVS6
+Actin gamma 1,ACTG1,A0A7P0TBL1
+"Actin gamma 2, smooth muscle",ACTG2,B8ZZJ2
+"Actin, alpha cardiac muscle 1 (Alpha-cardiac actin)",ACTC1,P68032
+"Actin, alpha skeletal muscle (Alpha-actin-1)",ACTA1,P68133
+"Actin, aortic smooth muscle (Alpha-actin-2)",ACTA2,P62736
+"Actin, cytoplasmic 1 (Beta-actin)",ACTB,P60709
+"Actin, cytoplasmic 2 (Gamma-actin)",ACTG1,P63261
+"Actin, gamma-enteric smooth muscle (EC 3.6.4.-) (Alpha-actin-3) (Gamma-2-actin) (Smooth muscle gamma-actin) [Cleaved into: Actin, gamma-enteric smooth muscle, intermediate form]",ACTG2,P63267
+"Actin, gamma-enteric smooth muscle (Gamma-2-actin) (Smooth muscle gamma-actin)",ACTG2,P63267
+Adenylate kinase 6,AK6,D6RDH4
+Adenylate kinase isoenzyme 6 (AK6) (EC 2.7.4.3) (Adrenal gland protein AD-004) (Coilin-interacting nuclear ATPase protein) (hCINAP) (Dual activity adenylate kinase/ATPase) (AK/ATPase),AK6,Q9Y3D8
+Adhesion G-protein coupled receptor V1 (ADGRV1) (EC 3.4.-.-) (G-protein coupled receptor 98) (Monogenic audiogenic seizure susceptibility protein 1 homolog) (Usher syndrome type-2C protein) (Very large G-protein coupled receptor 1) [Cleaved into: ADGRV1 subunit alpha; ADGRV1 subunit beta],ADGRV1,Q8WXG9
+Afamin (Alpha-albumin) (Alpha-Alb),AFM,P43652
+Alanine--glyoxylate aminotransferase (AGT) (SPT) (EC 2.6.1.44) (EC 2.6.1.51) (Serine--pyruvate aminotransferase),AGXT,P21549
+Albumin,ALB,P02768
+"All-trans-retinol 13,14-reductase (EC 1.3.99.23)",RETSAT,Q6NUM9
+"All-trans-retinol 13,14-reductase (EC 1.3.99.23) (All-trans-13,14-dihydroretinol saturase) (RetSat) (PPAR-alpha-regulated and starvation-induced gene protein)",RETSAT,Q6NUM9
+Alpha-1-acid glycoprotein 2 (AGP 2) (Orosomucoid-2) (OMD 2),ORM2,P19652
+Alpha-2-HS-glycoprotein (Alpha-2-Z-globulin) (Ba-alpha-2-glycoprotein) (Fetuin-A) [Cleaved into: Alpha-2-HS-glycoprotein chain A; Alpha-2-HS-glycoprotein chain B],AHSG,P02765
+Alpha-2-HS-glycoprotein (Fetuin-A),AHSG,P02765
+Alpha-2-antiplasmin,SERPINF2,P08697
+Alpha-2-antiplasmin (Alpha-2-AP) (Alpha-2-plasmin inhibitor) (Alpha-2-PI) (Serpin F2),SERPINF2,P08697
+"Alpha-2-glycoprotein 1, zinc-binding",AZGP1,C9JEV0
+Alpha-2-macroglobulin (Alpha-2-M) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5),A2M,P01023
+Alternative protein ARMCX4,ARMCX4,L8EAW9
+Alternative protein DHX40,DHX40,L8EAD7
+Angiotensinogen,AGT,P01019
+Angiotensinogen (Serpin A8),AGT,P01019
+Angiotensinogen (Serpin A8) [Cleaved into: Angiotensin-1 (Angiotensin 1-10) (Angiotensin I) (Ang I); Angiotensin-2 (Angiotensin 1-8) (Angiotensin II) (Ang II); Angiotensin-3 (Angiotensin 2-8) (Angiotensin III) (Ang III) (Des-Asp[1]-angiotensin II); Angiotensin-4 (Angiotensin 3-8) (Angiotensin IV) (Ang IV); Angiotensin 1-9; Angiotensin 1-7; Angiotensin 1-5; Angiotensin 1-4],AGT,P01019
+Ankyrin 2,ANK2,Q01484
+Ankyrin repeat domain-containing protein SOWAHC (Ankyrin repeat domain-containing protein 57) (Protein sosondowah homolog C),SOWAHC,Q53LP3
+Anti-(ED-B) scFV,BCL2L10,Q9HD36
+Antithrombin-III (ATIII) (Serpin C1),SERPINC1,P01008
+Antithrombin-III (Serpin C1),SERPINC1,P01008
+Apolipoprotein A-IV (Apo-AIV) (ApoA-IV) (Apolipoprotein A4),APOA4,P06727
+Apolipoprotein A-IV (Apolipoprotein A4),APOA4,P06727
+Apolipoprotein C-I,APOC1,P02654
+Apolipoprotein C-I (Apo-CI) (ApoC-I) (Apolipoprotein C1) [Cleaved into: Truncated apolipoprotein C-I],APOC1,P02654
+Apolipoprotein C-II (Apo-CII) (ApoC-II) (Apolipoprotein C2),APOC2,P02655
+Apolipoprotein C-II (Apo-CII) (ApoC-II) (Apolipoprotein C2) [Cleaved into: Proapolipoprotein C-II (ProapoC-II)],APOC2,P02655
+Apolipoprotein C-III (Apo-CIII) (ApoC-III) (Apolipoprotein C3),APOC3,P02656
+Apolipoprotein C-III (Apolipoprotein C3),APOC3,P02656
+Apolipoprotein C2,APOC2,P02655
+Apolipoprotein D,APOD,P05090
+Apolipoprotein D (Apo-D) (ApoD),APOD,P05090
+Apolipoprotein E,APOE,P02649
+Apolipoprotein E (Apo-E),APOE,P02649
+Apolipoprotein F (Apo-F) (Lipid transfer inhibitor protein) (LTIP),APOF,Q13790
+Apolipoprotein L1,APOL1,O14791
+Apolipoprotein L1 (Apolipoprotein L) (Apo-L) (ApoL) (Apolipoprotein L-I) (ApoL-I),APOL1,O14791
+Apolipoprotein M,APOM,O95445
+Apolipoprotein M (Apo-M) (ApoM) (Protein G3a),APOM,O95445
+Artemin (Enovin) (Neublastin),ARTN,Q5T4W7
+Attractin (DPPT-L) (Mahogany homolog),ATRNL1,Q5VV63
+BAG family molecular chaperone regulator 1,BAG1,Q99933
+BRE,BABAM2,Q9NXR7
+Beta actin,ACTB,P60709
+Beta-2-glycoprotein 1 (APC inhibitor) (Activated protein C-binding protein) (Anticardiolipin cofactor) (Apolipoprotein H) (Apo-H) (Beta-2-glycoprotein I) (B2GPI) (Beta(2)GPI),APOH,P02749
+Beta-2-glycoprotein 1 (Apolipoprotein H) (Beta-2-glycoprotein I),APOH,P02749
+Beta-2-microglobulin,B2M,P61769
+Beta-actin,ACTB,P60709
+Beta-globin,HBB,P68871
+Biotinidase (Biotinase) (EC 3.5.1.12),BTD,P43251
+"Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical] (EC 3.6.1.17) (Diadenosine 5',5'''-P1,P4-tetraphosphate asymmetrical hydrolase) (Ap4A hydrolase) (Ap4Aase) (Diadenosine tetraphosphatase) (Nucleoside diphosphate-linked moiety X motif 2) (Nudix motif 2)",HEXIM2,Q96MH2
+Bone-derived growth factor,BPGF-1,Q13876
+C-X-C motif chemokine,CXCL14,O95715
+C-reactive protein,CRP,P02741
+C4b-binding protein alpha chain (C4bp) (Proline-rich protein) (PRP),C4BPA,P04003
+C4b-binding protein beta chain,C4BPB,P20851
+CD5 antigen-like (Apoptosis inhibitor expressed by macrophages) (hAIM) (CT-2) (IgM-associated peptide) (SP-alpha),CD5L,O43866
+CD72 antigen,CD72,Q5TLF7
+CD72 molecule,CD72,A0A6E1WA84
+CYLC1 protein,CYLC1,Q3ZCV3
+Cadherin 5,CDH5,P33151
+Cadherin-5 (7B4 antigen) (Vascular endothelial cadherin) (VE-cadherin) (CD antigen CD144),CDH5,P33151
+Cadherin-5 (Vascular endothelial cadherin),CDH5,P33151
+Carboxypeptidase B2,CPB2,Q96IY4
+Carboxypeptidase B2 (EC 3.4.17.20) (Carboxypeptidase U) (CPU) (Plasma carboxypeptidase B) (pCPB) (Thrombin-activable fibrinolysis inhibitor) (TAFI),CPB2,Q96IY4
+Carboxypeptidase N catalytic chain (CPN) (EC 3.4.17.3) (Anaphylatoxin inactivator) (Arginine carboxypeptidase) (Carboxypeptidase N polypeptide 1) (Carboxypeptidase N small subunit) (Kininase-1) (Lysine carboxypeptidase) (Plasma carboxypeptidase B) (Serum carboxypeptidase N) (SCPN),CPN1,P15169
+Carboxypeptidase N subunit 2 (Carboxypeptidase N 83 kDa chain) (Carboxypeptidase N large subunit) (Carboxypeptidase N polypeptide 2) (Carboxypeptidase N regulatory subunit),CPN2,P22792
+Cartilage acidic protein 1,CRTAC1,Q9NQ79
+Cartilage acidic protein 1 (68 kDa chondrocyte-expressed protein) (CEP-68) (ASPIC),CRTAC1,Q9NQ79
+Caspase-7 (CASP-7) (EC 3.4.22.60) (Apoptotic protease Mch-3) (CMH-1) (ICE-like apoptotic protease 3) (ICE-LAP3) [Cleaved into: Caspase-7 subunit p20; Caspase-7 subunit p11],CASP7,P55210
+Cathelicidin antimicrobial peptide,CAMP,P49913
+Cathelicidin antimicrobial peptide (18 kDa cationic antimicrobial protein) (CAP-18) (hCAP-18) [Cleaved into: Antibacterial peptide FALL-39 (FALL-39 peptide antibiotic); Antibacterial peptide LL-37; Antibacterial peptide KR-20; Antibacterial peptide LL-23; Antibacterial peptide LL-29; Antibacterial peptide KS-30; Antibacterial peptide RK-31; Antibacterial peptide FF-33],CAMP,P49913
+Cation channel sperm-associated auxiliary subunit epsilon (CatSper-epsilon) (CatSperepsilon),CATSPERE,Q5SY80
+Catsper channel auxiliary subunit epsilon,CATSPERE,B1AQM6
+Centromere protein N (CENP-N) (Interphase centromere complex protein 32),CENPN,Q96H22
+Centrosomal protein 250,CEP250,H7C0P0
+Centrosomal protein of 85 kDa (Cep85) (Coiled-coil domain-containing protein 21),CEP85,Q6P2H3
+Centrosome-associated protein CEP250 (250 kDa centrosomal protein) (Cep250) (Centrosomal Nek2-associated protein 1) (C-Nap1) (Centrosomal protein 2),CEP250,Q9BV73
+Ceruloplasmin,CP,P00450
+Ceruloplasmin (Cuproxidase ceruloplasmin) (EC 1.16.3.4) (Ferroxidase ceruloplasmin) (EC 1.16.3.1) (Glutathione peroxidase ceruloplasmin) (EC 1.11.1.9) (Glutathione-dependent peroxiredoxin ceruloplasmin) (EC 1.11.1.27),CP,P00450
+Chaperonin containing TCP1 subunit 7,CCT7,F8WAM2
+Chitinase-3-like protein 1 (39 kDa synovial protein) (Cartilage glycoprotein 39) (CGP-39) (GP-39) (hCGP-39) (YKL-40),CHI3L1,P36222
+Chromodomain-helicase-DNA-binding protein 6 (CHD-6) (EC 3.6.4.12) (ATP-dependent helicase CHD6) (Radiation-induced gene B protein),CHD6,H7C294
+Clusterin,CLUAP1,Q96AJ1
+"Clusterin (Aging-associated gene 4 protein) (Apolipoprotein J) (Apo-J) (Complement cytolysis inhibitor) (CLI) (Complement-associated protein SP-40,40) (Ku70-binding protein 1) (NA1/NA2) (Sulfated glycoprotein 2) (SGP-2) (Testosterone-repressed prostate message 2) (TRPM-2) [Cleaved into: Clusterin beta chain (ApoJalpha) (Complement cytolysis inhibitor a chain) (SP-40,40 beta-chain); Clusterin alpha chain (ApoJbeta) (Complement cytolysis inhibitor b chain) (SP-40,40 alpha-chain)]",CLUAP1,Q96AJ1
+Coagulation factor IX,F9,P00740
+Coagulation factor IX (EC 3.4.21.22) (Christmas factor),F9,P00740
+Coagulation factor IX (EC 3.4.21.22) (Christmas factor) (Plasma thromboplastin component) (PTC) [Cleaved into: Coagulation factor IXa light chain; Coagulation factor IXa heavy chain],F9,P00740
+Coagulation factor X (EC 3.4.21.6) (Stuart factor),F10,P00742
+Coagulation factor X (EC 3.4.21.6) (Stuart factor) (Stuart-Prower factor) [Cleaved into: Factor X light chain; Factor X heavy chain; Activated factor Xa heavy chain],F10,P00742
+Coagulation factor XI,F11,P03951
+Coagulation factor XI (FXI) (EC 3.4.21.27) (Plasma thromboplastin antecedent) (PTA) [Cleaved into: Coagulation factor XIa heavy chain; Coagulation factor XIa light chain],F11,P03951
+Coagulation factor XII (EC 3.4.21.38) (Hageman factor),F12,P00748
+Coagulation factor XII (EC 3.4.21.38) (Hageman factor) (HAF) [Cleaved into: Coagulation factor XIIa heavy chain; Beta-factor XIIa part 1; Coagulation factor XIIa light chain (Beta-factor XIIa part 2)],F12,P00748
+Coagulation factor XIII B chain,F13B,P05160
+Coagulation factor XIII B chain (Fibrin-stabilizing factor B subunit) (Protein-glutamine gamma-glutamyltransferase B chain) (Transglutaminase B chain),F13B,P05160
+Coiled-coil domain containing 110,CCDC110,E7EUS2
+Coiled-coil domain-containing protein 110 (Cancer/testis antigen 52) (CT52) (Cancer/testis antigen KM-HN-1),CCDC110,Q8TBZ0
+Complement C1q A chain,C1QA,A0A8Q3SI41
+Complement C1q B chain,C1QB,D6R934
+Complement C1q C chain,C1QC,A0A8Q3SIZ0
+Complement C1q subcomponent subunit A,C1QA,P02745
+Complement C1r subcomponent (EC 3.4.21.41) (Complement component 1 subcomponent r) [Cleaved into: Complement C1r subcomponent heavy chain; Complement C1r subcomponent light chain],C1R,P00736
+Complement C1r subcomponent like,C1RL,Q9NZP8
+Complement C1r subcomponent-like protein (C1r-LP) (C1r-like protein) (EC 3.4.21.-) (C1r-like serine protease analog protein) (CLSPa),C1RL,Q9NZP8
+Complement C1s,C1S,P09871
+Complement C1s subcomponent (EC 3.4.21.42) (C1 esterase) (Complement component 1 subcomponent s) [Cleaved into: Complement C1s subcomponent heavy chain; Complement C1s subcomponent light chain],C1S,P09871
+Complement C2,C2,P06681
+Complement C2 (EC 3.4.21.43) (C3/C5 convertase),C2,P06681
+Complement C2 (EC 3.4.21.43) (C3/C5 convertase) [Cleaved into: Complement C2b fragment; Complement C2a fragment],C2,P06681
+Complement C4-A (Acidic complement C4) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 2) [Cleaved into: Complement C4 beta chain; Complement C4-A alpha chain; C4a anaphylatoxin; C4b-A; C4d-A; Complement C4 gamma chain],C4A,P0C0L4
+Complement C4-B (Basic complement C4) (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 3) [Cleaved into: Complement C4 beta chain; Complement C4-B alpha chain; C4a anaphylatoxin; C4b-B; C4d-B; Complement C4 gamma chain],C4B,P0C0L5
+Complement C4A (Rodgers blood group),C4A,A0A140TA49
+Complement C5,C5,P01031
+Complement C5 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 4) [Cleaved into: Complement C5 beta chain; Complement C5 alpha chain; C5a anaphylatoxin; Complement C5 alpha' chain],C5,P01031
+Complement C8 alpha chain,C8A,A0A8Q3WKT7
+Complement component C6,C6,P13671
+Complement component C7,C7,P10643
+Complement component C8 alpha chain (Complement component 8 subunit alpha),C8A,P07357
+Complement component C8 beta chain (Complement component 8 subunit beta),C8B,P07358
+Complement component C8 gamma chain,C8G,P07360
+Complement component C9,C9,P02748
+Complement factor B (EC 3.4.21.47) (C3/C5 convertase),CFB,P00751
+Complement factor B (EC 3.4.21.47) (C3/C5 convertase) (Glycine-rich beta glycoprotein) (GBG) (PBF2) (Properdin factor B) [Cleaved into: Complement factor B Ba fragment; Complement factor B Bb fragment],CFB,P00751
+Complement factor D (EC 3.4.21.46) (Adipsin) (C3 convertase activator) (Properdin factor D),CFD,P00746
+Complement factor H,CFH,P08603
+Complement factor H (H factor 1),CFH,P08603
+Complement factor H related 1,CFHR1,B1AKG0
+Complement factor H related 2,CFHR2,A0A3B3IQ51
+Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),CFHR1,Q03591
+Complement factor H-related protein 2 (FHR-2) (DDESK59) (H factor-like 3) (H factor-like protein 2),CFHR2,P36980
+Complement factor H-related protein 4 (FHR-4),CFHR4,Q92496
+Complement factor I,CFI,P05156
+Complement factor I (EC 3.4.21.45) (C3B/C4B inactivator) [Cleaved into: Complement factor I heavy chain; Complement factor I light chain],CFI,P05156
+Complement factor properdin,CFP,C9J7V5
+Corticosteroid-binding globulin (CBG) (Serpin A6) (Transcortin),SERPINA6,P08185
+Corticosteroid-binding globulin (Serpin A6) (Transcortin),SERPINA6,P08185
+Cullin 1,CUL1,Q13616
+Cylicin-1 (Cylicin I) (Multiple-band polypeptide I),CYLC1,P35663
+Cytochrome P450 family 27 subfamily B member 1,CYP27B1,A0AAA9YHN9
+DNA replication ATP-dependent helicase/nuclease DNA2 (EC 3.6.4.12) (DNA replication ATP-dependent helicase-like homolog),DNA2,P51530
+Disheveled-associated activator of morphogenesis 1,DAAM1,Q9Y4D1
+Disintegrin and metalloproteinase domain-containing protein 30 (ADAM 30) (EC 3.4.24.-),ADAM30,Q9UKF2
+Dual specificity mitogen-activated protein kinase kinase 7 (MAP kinase kinase 7) (MAPKK 7) (EC 2.7.12.2) (JNK-activating kinase 2) (MAPK/ERK kinase 7) (MEK 7) (Stress-activated protein kinase kinase 4) (SAPK kinase 4) (SAPKK-4) (SAPKK4) (c-Jun N-terminal kinase kinase 2) (JNK kinase 2) (JNKK 2),MAP2K7,O14733
+Dynein heavy chain domain-containing protein 1 (Coiled-coil domain-containing protein 35) (Dynein heavy chain domain 1-like protein),DNHD1,Q96M86
+Dystonin,DST,Q03001
+Dystonin (230 kDa bullous pemphigoid antigen) (230/240 kDa bullous pemphigoid antigen) (Bullous pemphigoid antigen 1) (BPA) (Bullous pemphigoid antigen) (Dystonia musculorum protein) (Hemidesmosomal plaque protein),DST,Q03001
+E3 SUMO-protein ligase RanBP2 (EC 2.3.2.-) (358 kDa nucleoporin) (Nuclear pore complex protein Nup358) (Nucleoporin Nup358) (Ran-binding protein 2) (RanBP2) (p270),RANBP2,P49792
+E3 ubiquitin-protein ligase TRIM17 (EC 2.3.2.27) (RING finger protein 16) (RING-type E3 ubiquitin transferase TRIM17) (Testis RING finger protein) (Tripartite motif-containing protein 17),TRIM17,Q9Y577
+E3 ubiquitin-protein ligase UBR4 (EC 2.3.2.27) (600 kDa retinoblastoma protein-associated factor) (p600) (N-recognin-4) (Retinoblastoma-associated factor of 600 kDa) (RBAF600),UBR4,Q5T4S7
+EEF1A lysine methyltransferase 3,EEF1AKMT3,Q96AZ1
+EF-hand domain-containing family member B (Cilia- and flagella-associated protein 21),EFHB,Q8N7U6
+EGF-containing fibulin-like extracellular matrix protein 1 (Extracellular protein S1-5) (Fibrillin-like protein) (Fibulin-3) (FIBL-3),EFEMP1,Q12805
+EH domain binding protein 1,EHBP1,Q8NDI1
+Ectopic P granules protein 5 homolog,EPG5,Q9HCE0
+Ectopic P-granules 5 autophagy tethering factor,EPG5,A0A8Q3SIJ4
+"Elongation factor Ts, mitochondrial (EF-Ts) (EF-TsMt)",TSFM,P43897
+Endoplasmic reticulum chaperone BiP (EC 3.6.4.10) (78 kDa glucose-regulated protein) (GRP-78) (Binding-immunoglobulin protein) (BiP) (Heat shock protein 70 family protein 5) (HSP70 family protein 5) (Heat shock protein family A member 5) (Immunoglobulin heavy chain-binding protein),HSPA5,P11021
+Engulfment and cell motility 3,ELMO3,F8W9E7
+Engulfment and cell motility protein 3,ELMO3,Q96BJ8
+Epididymis luminal protein 213,HEL-213,V9HW34
+Epididymis luminal protein 214,HEL-214,V9HW68
+Epididymis secretory sperm binding protein,MTHFD1,P11586
+Eukaryotic translation initiation factor 3 subunit C (eIF3c) (Eukaryotic translation initiation factor 3 subunit 8) (eIF3 p110),EIF3C,Q99613
+Eukaryotic translation initiation factor 3 subunit C-like protein,EIF3CL,B5ME19
+Extracellular matrix protein 1 (Secretory component p85),ECM1,Q16610
+F-box and leucine rich repeat protein 12,FBXL12,Q9NXK8
+F5-20,F5-20,A0N7I9
+FLJ00127 protein,FLJ00127,Q8TER6
+"FYVE, RhoGEF and PH domain containing 6",FGD6,F8VWT6
+Fc gamma receptor IIIa,FCGR3A,A0A8V8TPL1
+Fetuin-B (16G2) (Fetuin-like protein IRL685) (Gugu),FETUB,Q9UGM5
+Fibrinogen,FGA,P02671
+Fibrinogen gamma chain,FGG,P02679
+Fibronectin,FNDC5,Q8NAU1
+Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3],FNDC5,Q8NAU1
+Fibulin-1,FBLN1,P23142
+Fibulin-1 (FIBL-1),FBLN1,P23142
+"Ficolin (Collagen/fibrinogen domain containing) 3 (Hakata antigen), isoform CRA_b (NL3)",FCN1,O00602
+Ficolin 3,FCN3,O75636
+Ficolin-3 (Collagen/fibrinogen domain-containing lectin 3 p35) (Collagen/fibrinogen domain-containing protein 3) (Hakata antigen),FCN3,O75636
+Filamin-C (FLN-C) (FLNc) (ABP-280-like protein) (ABP-L) (Actin-binding-like protein) (Filamin-2) (Gamma-filamin),FLNC,Q14315
+Formin-1 (Limb deformity protein homolog),FMN1,Q68DA7
+Galectin 3 binding protein,LGALS3BP,Q08380
+Galectin-3-binding protein (Basement membrane autoantigen p105) (Lectin galactoside-binding soluble 3-binding protein) (Mac-2-binding protein) (MAC2BP) (Mac-2 BP) (Tumor-associated antigen 90K),LGALS3BP,Q08380
+Galectin-3-binding protein (Lectin galactoside-binding soluble 3-binding protein),LGALS3BP,Q08380
+"Gasdermin-A (Gasdermin-1) [Cleaved into: Gasdermin-A, N-terminal (GSDMA-NT); Gasdermin-A, C-terminal (GSDMA-CT)]",GSDMA,Q96QA5
+Gelsolin (ADF) (Actin-depolymerizing factor),GSN,P06396
+Gelsolin (AGEL) (Actin-depolymerizing factor) (ADF) (Brevin),GSN,P06396
+"Glucose 1,6-bisphosphate synthase (EC 2.7.1.106) (PMMLP) (Phosphoglucomutase-2-like 1)",PGM2L1,Q6PCE3
+Glutamate receptor,GRIA4,P48058
+"Glutamate receptor ionotropic, delta-1 (GluD1) (GluR delta-1 subunit)",GRID1,Q9ULK0
+Glutathione peroxidase 3 (GPx-3) (GSHPx-3) (EC 1.11.1.9) (Extracellular glutathione peroxidase) (Plasma glutathione peroxidase) (GPx-P) (GSHPx-P),GPX3,P22352
+Golgi reassembly stacking protein 1,GORASP1,Q9BQQ3
+Golgi reassembly-stacking protein 1 (Golgi peripheral membrane protein p65) (Golgi phosphoprotein 5) (GOLPH5) (Golgi reassembly-stacking protein of 65 kDa) (GRASP65),GORASP1,Q9BQQ3
+"HCG1798424, isoform CRA_b (Tetraspanin 19)",TSPAN19,J3KQT2
+HEAT repeat-containing protein 4,HEATR4,Q86WZ0
+Haptoglobin,HP,P00738
+Haptoglobin (Zonulin) [Cleaved into: Haptoglobin alpha chain; Haptoglobin beta chain],HP,P00738
+Haptoglobin-related protein,HPR,P00739
+Heavy chain variable region,IGM,O95973
+Hemicentin-1 (Fibulin-6) (FIBL-6),HMCN1,Q96RW7
+Hemoglobin alpha 1,HBA1,U6A216
+Hemoglobin alpha-1 globin chain,HBA1,U6A216
+Hemoglobin beta,HBB,P68871
+Hemoglobin subunit alpha,HBA1;,P69905
+Hemoglobin subunit beta,HBB,P68871
+Hemopexin (Beta-1B-glycoprotein),HPX,P02790
+Heparin cofactor 2 (Heparin cofactor II) (HC-II) (Protease inhibitor leuserpin-2) (HLS2) (Serpin D1),SERPIND1,P05546
+Hepatocyte growth factor activator (HGF activator) (HGFA) (EC 3.4.21.-) [Cleaved into: Hepatocyte growth factor activator short chain; Hepatocyte growth factor activator long chain],HGFAC,Q04756
+Histidine-rich glycoprotein (Histidine-proline-rich glycoprotein),HRG,P04196
+Histidine-rich glycoprotein (Histidine-proline-rich glycoprotein) (HPRG),HRG,P04196
+Hyaluronan-binding protein 2 (EC 3.4.21.-) (Factor VII-activating protease) (Factor seven-activating protease) (FSAP) (Hepatocyte growth factor activator-like protein) (Plasma hyaluronan-binding protein) [Cleaved into: Hyaluronan-binding protein 2 50 kDa heavy chain; Hyaluronan-binding protein 2 50 kDa heavy chain alternate form; Hyaluronan-binding protein 2 27 kDa light chain; Hyaluronan-binding protein 2 27 kDa light chain alternate form],HABP2,Q14520
+IGH@ protein,IGH@,Q6P089
+IGHV2-70 protein,IGHV2-70,A0A0F7T0G6
+IGHV5-51*03_S2680,IGHV5-51,A0A449C189
+IGK@ protein,IGK@,Q6PJF2
+IGL@ protein,IGL@,Q6GMX4
+ITIH4 protein (Inter-alpha-trypsin inhibitor heavy chain 4),ITIH4,B7ZKJ8
+Ig heavy chain variable region,IgH,A0A2U8J8B6
+Ig-like domain-containing protein,HLA-A,A0A5H2WTZ8
+Immunoglobulin J chain (Joining chain of multimeric IgA and IgM),JCHAIN,P01591
+Immunoglobulin heavy constant delta (Ig delta chain C region) (Ig delta chain C region NIG-65) (Ig delta chain C region WAH),IGHD,P01880
+Immunoglobulin heavy constant gamma 2 (Ig gamma-2 chain C region) (Ig gamma-2 chain C region DOT) (Ig gamma-2 chain C region TIL) (Ig gamma-2 chain C region ZIE),IGHG2,P01859
+Immunoglobulin heavy constant gamma 4 (Ig gamma-4 chain C region),IGHG4,P01861
+Immunoglobulin heavy constant mu (Ig mu chain C region) (Ig mu chain C region BOT) (Ig mu chain C region GAL) (Ig mu chain C region OU),IGHM,P01871
+Immunoglobulin heavy variable 1-45,IGHV1-45,A0A0A0MS14
+Immunoglobulin heavy variable 3-64D,IGHV3-64D,A0A0J9YX35
+Immunoglobulin heavy variable 3-72,IGHV3-72,A0A0B4J1Y9
+Immunoglobulin heavy variable 3-74,IGHV3-74,A0A0B4J1X5
+Immunoglobulin heavy variable 3/OR16-9 (non-functional),IGHV3OR16-9,A0A0B4J2B5
+Immunoglobulin kappa variable 1-17 (Ig kappa chain V-I region Gal) (Ig kappa chain V-I region WEA),IGKV1-17,P01599
+Immunoglobulin kappa variable 1-6,IGKV1-6,A0A0C4DH72
+Immunoglobulin kappa variable 1/OR2-108 (non-functional),IGKV1OR2-108,A0A075B7D4
+Immunoglobulin kappa variable 2-24,IGKV2-24,A0A0C4DH68
+Immunoglobulin lambda constant 6 (Ig lambda-6 chain C region),IGLC6,P0CF74
+Immunoglobulin lambda variable 1-36,IGLV1-36,A0A0B4J1U3
+Immunoglobulin lambda variable 5-45,IGLV5-45,A0A087WSX0
+Immunoglobulin lambda-like polypeptide 1 (CD179 antigen-like family member B) (Ig lambda-5) (Immunoglobulin omega polypeptide) (Immunoglobulin-related protein 14.1) (CD antigen CD179b),IGLL1,P15814
+Inositol polyphosphate-1-phosphatase,BPNT1,O95861
+Insulin like growth factor binding protein 3,IGFBP3,P17936
+Insulin-like growth factor II,IGF2,P01344
+Insulin-like growth factor II (IGF-II) (Somatomedin-A) (T3M-11-derived growth factor) [Cleaved into: Insulin-like growth factor II; Insulin-like growth factor II Ala-25 Del; Preptin],IGF2,P01344
+Insulin-like growth factor-binding protein 2 (IBP-2) (IGF-binding protein 2) (IGFBP-2),IGFBP2,P18065
+Insulin-like growth factor-binding protein 3,IGFBP3,P17936
+Insulin-like growth factor-binding protein 3 (IBP-3) (IGF-binding protein 3) (IGFBP-3),IGFBP3,P17936
+Insulin-like growth factor-binding protein complex acid labile subunit (ALS),IGFALS,P35858
+"Inter-alpha (Globulin) inhibitor H2 (cDNA FLJ75038, highly similar to Homo sapiens inter-alpha (globulin) inhibitor H2 (ITIH2), mRNA)",ITIH5,Q86UX2
+Inter-alpha (Globulin) inhibitor H4 (Plasma Kallikrein-sensitive glycoprotein),ITIH5,Q86UX2
+Inter-alpha-trypsin inhibitor heavy chain 2,ITIH2,Q5T985
+Inter-alpha-trypsin inhibitor heavy chain H2 (ITI heavy chain H2) (ITI-HC2) (Inter-alpha-inhibitor heavy chain 2) (Inter-alpha-trypsin inhibitor complex component II) (Serum-derived hyaluronan-associated protein) (SHAP),ITIH2,P19823
+Inter-alpha-trypsin inhibitor heavy chain H3,ITIH3,Q06033
+Inter-alpha-trypsin inhibitor heavy chain H3 (ITI heavy chain H3) (ITI-HC3) (Inter-alpha-inhibitor heavy chain 3) (Serum-derived hyaluronan-associated protein) (SHAP),ITIH3,Q06033
+Inter-alpha-trypsin inhibitor heavy chain H4 (ITI heavy chain H4) (ITI-HC4) (Inter-alpha-inhibitor heavy chain 4) (Inter-alpha-trypsin inhibitor family heavy chain-related protein) (IHRP) (Plasma kallikrein sensitive glycoprotein 120) (Gp120) (PK-120) [Cleaved into: 70 kDa inter-alpha-trypsin inhibitor heavy chain H4; 35 kDa inter-alpha-trypsin inhibitor heavy chain H4],ITIH4,Q14624
+Intermembrane lipid transfer protein VPS13B (Cohen syndrome protein 1) (Vacuolar protein sorting-associated protein 13B),VPS13B,Q7Z7G8
+Intermembrane lipid transfer protein VPS13D (Vacuolar protein sorting-associated protein 13D),VPS13D,Q5THJ4
+Joining chain of multimeric IgA and IgM,JCHAIN,P01591
+Kelch-like protein 35,KLHL35,Q6PF15
+Keratin 5,KRT5,P13647
+"Keratin, type II cytoskeletal 1 (67 kDa cytokeratin) (Cytokeratin-1) (CK-1) (Hair alpha protein) (Keratin-1) (K1) (Type-II keratin Kb1)",KRT1,P04264
+"Keratin, type II cytoskeletal 1 (Cytokeratin-1) (Keratin-1) (Type-II keratin Kb1)",KRT1,P04264
+Ketimine reductase mu-crystallin (EC 1.5.1.25) (NADP-regulated thyroid-hormone-binding protein),CRYM,Q14894
+Kinesin family member 5A,KIF5A,A0A6Q8PGJ3
+Kinesin-like protein,KIF23,Q02241
+"Kininogen 1, isoform CRA_b (cDNA FLJ56836, highly similar to Kininogen-1)",KNG1,B4E1C2
+Kininogen-1 (Alpha-2-thiol proteinase inhibitor) (Fitzgerald factor) (High molecular weight kininogen) (HMWK) (Williams-Fitzgerald-Flaujeac factor) [Cleaved into: Kininogen-1 heavy chain; T-kinin (Ile-Ser-Bradykinin); Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-1 light chain; Low molecular weight growth-promoting factor],KNG1,P01042
+LILRA3 protein,LILRA3,H2B4M3
+"Lactosylceramide 4-alpha-galactosyltransferase (EC 2.4.1.228) (Alpha-1,4-N-acetylglucosaminyltransferase) (Alpha-1,4-galactosyltransferase) (Globotriaosylceramide synthase) (UDP-galactose:beta-D-galactosyl-beta1-R 4-alpha-D-galactosyltransferase)",A4GALT,Q9NPC4
+Lambda-chain (AA -20 to 215),IGLV2-11,P01706
+Lecithin-cholesterol acyltransferase,LCAT,P04180
+Leucine-rich alpha-2-glycoprotein (LRG),LRG1,P02750
+"Leucine-rich alpha-2-glycoprotein (cDNA FLJ14476 fis, clone MAMMA1001388, highly similar to Leucine-rich alpha-2-glycoprotein) (cDNA, FLJ95324, highly similar to Homo sapiens leucine-rich alpha-2-glycoprotein 1 (LRG1), mRNA)",LRG1,P02750
+Leukocyte immunoglobulin like receptor A3,LILRA3,A0A0G2JLV5
+Leukocyte immunoglobulin-like receptor subfamily A member 3 (CD85 antigen-like family member E) (Immunoglobulin-like transcript 6) (ILT-6) (Leukocyte immunoglobulin-like receptor 4) (LIR-4) (Monocyte inhibitory receptor HM43/HM31) (CD antigen CD85e),LILRA3,Q8N6C8
+Lipocalin/cytosolic fatty-acid binding domain-containing protein,LOC102723971,A0A1B0GUV8
+Lipopolysaccharide-binding protein (LBP),LBP,P18428
+Low affinity immunoglobulin gamma Fc region receptor III-A,FCGR3A,P08637
+Low-density lipoprotein receptor,LDLR,P01130
+Lumican,LUM,P51884
+Lumican (Keratan sulfate proteoglycan lumican) (KSPG lumican),LUM,P51884
+Lymphocyte cytosolic protein 2,LCP2,Q13094
+"Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C)",LYZ,P61626
+M-phase phosphoprotein 8 (Two hybrid-associated protein 3 with RanBPM) (Twa3),MPHOSPH8,Q99549
+MAM domain containing glycosylphosphatidylinositol anchor 1,MDGA1,A0A7P0TB21
+MAM domain-containing glycosylphosphatidylinositol anchor protein 1 (GPI and MAM protein) (GPIM) (Glycosylphosphatidylinositol-MAM) (MAM domain-containing protein 3),MDGA1,Q8NFP4
+MBL associated serine protease 1,MASP1,C9JMA2
+MBL associated serine protease 2,MASP2,O00187
+MHC class I antigen,HLA-H,P01893
+MHC class II antigen,HLA-DOB,P13765
+MORC family CW-type zinc finger protein 1 (Cancer/testis antigen 33) (CT33),MORC1,Q86VD1
+Maestro heat-like repeat-containing protein family member 2B (HEAT repeat-containing protein 7B2) (Sperm PKA-interacting factor) (SPIF),MROH2B,Q7Z745
+Mannan-binding lectin serine protease 1 (EC 3.4.21.-) (Complement factor MASP-3) (Complement-activating component of Ra-reactive factor) (Mannose-binding lectin-associated serine protease 1) (MASP-1) (Mannose-binding protein-associated serine protease) (Ra-reactive factor serine protease p100) (RaRF) (Serine protease 5) [Cleaved into: Mannan-binding lectin serine protease 1 heavy chain; Mannan-binding lectin serine protease 1 light chain],MASP1,P48740
+Mannan-binding lectin serine protease 2 (EC 3.4.21.104) (MBL-associated serine protease 2) (Mannose-binding protein-associated serine protease 2) (MASP-2) [Cleaved into: Mannan-binding lectin serine protease 2 A chain; Mannan-binding lectin serine protease 2 B chain],MASP2,O00187
+Mannose-binding protein C (MBP-C) (Collectin-1) (MBP1) (Mannan-binding protein) (Mannose-binding lectin),MBL2,P11226
+Metalloproteinase inhibitor 1 (Erythroid-potentiating activity) (EPA) (Fibroblast collagenase inhibitor) (Collagenase inhibitor) (Tissue inhibitor of metalloproteinases 1) (TIMP-1),TIMP1,P01033
+Metalloproteinase inhibitor 1 (Tissue inhibitor of metalloproteinases 1),TIMP1,P01033
+Methyl-CpG binding domain protein 5,MBD5,Q9P267
+Methyl-CpG-binding domain protein 5 (Methyl-CpG-binding protein MBD5),MBD5,Q9P267
+Mitochondrial 11beta-hydroxylase,CYP11B1,A9UF29
+Monocarboxylate transporter 11 (MCT 11) (Solute carrier family 16 member 11),SLC16A11,Q8NCK7
+"Monocyte differentiation antigen CD14 (My23 antigen) (Myeloid cell-specific leucine-rich glycoprotein) (CD antigen CD14) [Cleaved into: Monocyte differentiation antigen CD14, urinary form; Monocyte differentiation antigen CD14, membrane-bound form]",CD14,P08571
+Monocyte differentiation antigen CD14 (Myeloid cell-specific leucine-rich glycoprotein),CD14,P08571
+Multiple PDZ domain crumbs cell polarity complex component,MPDZ,H0YF96
+Multiple PDZ domain protein (Multi-PDZ domain protein 1),MPDZ,O75970
+Multiple epidermal growth factor-like domains protein 8 (Multiple EGF-like domains protein 8) (Epidermal growth factor-like protein 4) (EGF-like protein 4),MEGF8,Q7Z7M0
+Mutant hemoglobin alpha 1 globin chain (Mutant hemoglobin alpha 2 globin chain),HBA1,U6A216
+Mutant hemoglobin subunit alpha 2,HBA2,A0A385HVY8
+Myosin IIIB,MYO3B,Q8WXR4
+Myosin-IIIb (EC 2.7.11.1),MYO3B,Q8WXR4
+N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28) (Peptidoglycan recognition protein 2) (Peptidoglycan recognition protein long) (PGRP-L),PGLYRP2,Q96PD5
+NAD-dependent protein deacylase sirtuin-6 (EC 2.3.1.-) (NAD-dependent protein deacetylase sirtuin-6) (EC 2.3.1.286) (Protein mono-ADP-ribosyltransferase sirtuin-6) (EC 2.4.2.-) (Regulatory protein SIR2 homolog 6) (hSIRT6) (SIR2-like protein 6),SIRT6,Q8N6T7
+NADH-ubiquinone oxidoreductase chain 1 (EC 7.1.1.2),MT-ND1,P03886
+NADH-ubiquinone oxidoreductase chain 4L (EC 7.1.1.2),MT-ND4L,P03901
+NL3,UNQ172,Q6UY50
+NUMA1 protein,NUMA1,Q3SYK8
+Neugrin (Mesenchymal stem cell protein DSC92) (Neurite outgrowth-associated protein) (Spinal cord-derived protein FI58G),NGRN,Q9NPE2
+Nuclear mitotic apparatus protein 1,NUMA1,Q14980
+Nuclear mitotic apparatus protein 1 (Nuclear matrix protein-22) (NMP-22) (Nuclear mitotic apparatus protein) (NuMA protein) (SP-H antigen),NUMA1,Q14980
+Olfactory receptor,OR1F1,O43749
+Papilin,PAPLN,O95428
+Peptidase D,PEPD,P12955
+Peptidase inhibitor 16 (PI-16) (Cysteine-rich secretory protein 9) (CRISP-9) (PSP94-binding protein) (CD antigen CD364),PI16,Q6UXB8
+Peptidyl-prolyl cis-trans isomerase FKBP9 (PPIase FKBP9) (EC 5.2.1.8) (63 kDa FK506-binding protein) (63 kDa FKBP) (FKBP-63) (FK506-binding protein 9) (FKBP-9) (Rotamase),FKBP9,O95302
+Peroxiredoxin-1 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 1),PRDX1,Q06830
+Peroxiredoxin-2 (EC 1.11.1.24) (Natural killer cell-enhancing factor B) (NKEF-B) (PRP) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1) (Thioredoxin-dependent peroxiredoxin 2),PRDX2,P32119
+Peroxiredoxin-2 (EC 1.11.1.24) (Thioredoxin-dependent peroxiredoxin 2),PRDX2,P32119
+Phosphatidylcholine-sterol acyltransferase (EC 2.3.1.43) (1-alkyl-2-acetylglycerophosphocholine esterase) (EC 3.1.1.47) (Lecithin-cholesterol acyltransferase) (Phospholipid-cholesterol acyltransferase) (Platelet-activating factor acetylhydrolase) (PAF acetylhydrolase),LCAT,P04180
+Phosphatidylcholine-sterol acyltransferase (EC 2.3.1.43) (Lecithin-cholesterol acyltransferase) (Phospholipid-cholesterol acyltransferase),LCAT,P04180
+Phosphatidylinositol-glycan-specific phospholipase D (PI-G PLD) (EC 3.1.4.50) (Glycoprotein phospholipase D) (Glycosyl-phosphatidylinositol-specific phospholipase D) (GPI-PLD) (GPI-specific phospholipase D),GPLD1,P80108
+Phosphoacetylglucosamine mutase (PAGM) (EC 5.4.2.3) (Acetylglucosamine phosphomutase) (N-acetylglucosamine-phosphate mutase),PGM3,O95394
+Phosphodiesterase 10A,PDE10A,Q9Y233
+Phosphoglucomutase 3,PGM3,O95394
+Phospholipid transfer protein (Lipid transfer protein II),PLTP,P55058
+Phosphoribosylformylglycinamidine synthase,PFAS,O15067
+Plasma kallikrein (EC 3.4.21.34) (Fletcher factor) (Kininogenin) (Plasma prekallikrein) (PKK) [Cleaved into: Plasma kallikrein heavy chain; Plasma kallikrein light chain],KLKB1,P03952
+Plasma protease C1 inhibitor (C1 Inh) (C1Inh) (C1 esterase inhibitor) (C1-inhibiting factor) (Serpin G1),SERPING1,P05155
+Platelet basic protein (PBP) (C-X-C motif chemokine 7) (Leukocyte-derived growth factor) (LDGF) (Macrophage-derived growth factor) (MDGF) (Small-inducible cytokine B7) [Cleaved into: Connective tissue-activating peptide III (CTAP-III) (LA-PF4) (Low-affinity platelet factor IV); TC-2; Connective tissue-activating peptide III(1-81) (CTAP-III(1-81)); Beta-thromboglobulin (Beta-TG); Neutrophil-activating peptide 2(74) (NAP-2(74)); Neutrophil-activating peptide 2(73) (NAP-2(73)); Neutrophil-activating peptide 2 (NAP-2); TC-1; Neutrophil-activating peptide 2(1-66) (NAP-2(1-66)); Neutrophil-activating peptide 2(1-63) (NAP-2(1-63))],PPBP,P02775
+Poly [ADP-ribose] polymerase (EC 2.4.2.30),PARP1,P09874
+Poly [ADP-ribose] polymerase (PARP) (EC 2.4.2.-),PARP1,P09874
+Poly [ADP-ribose] polymerase 2 (PARP-2) (hPARP-2) (EC 2.4.2.30) (ADP-ribosyltransferase diphtheria toxin-like 2) (ARTD2) (DNA ADP-ribosyltransferase PARP2) (EC 2.4.2.-) (NAD(+) ADP-ribosyltransferase 2) (ADPRT-2) (Poly[ADP-ribose] synthase 2) (pADPRT-2) (Protein poly-ADP-ribosyltransferase PARP2) (EC 2.4.2.-),PARP2,Q9UGN5
+Poly(ADP-ribose) polymerase 2,PARG,Q86W56
+Polymeric immunoglobulin receptor (PIgR) (Poly-Ig receptor) (Hepatocellular carcinoma-associated protein TB6) [Cleaved into: Secretory component],PIGR,P01833
+Precursor (AA -19 to 108),NMU,P48645
+Pregnancy zone protein (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 6),PZP,P20742
+"Presenilin-associated rhomboid-like protein, mitochondrial (EC 3.4.21.105)",PARL,Q9H300
+"Presenilin-associated rhomboid-like protein, mitochondrial (EC 3.4.21.105) (Mitochondrial intramembrane cleaving protease PARL) [Cleaved into: P-beta (Pbeta)]",PARL,Q9H300
+Probable non-functional immunoglobulin kappa variable 2D-24,IGKV2D-24,A0A075B6R9
+Probable ribosome biogenesis protein RLP24 (Ribosomal L24 domain-containing protein 1),RSL24D1,Q9UHA3
+Prolow-density lipoprotein receptor-related protein 1 (LRP-1) (Alpha-2-macroglobulin receptor) (A2MR) (Apolipoprotein E receptor) (APOER) (CD antigen CD91) [Cleaved into: Low-density lipoprotein receptor-related protein 1 85 kDa subunit (LRP-85); Low-density lipoprotein receptor-related protein 1 515 kDa subunit (LRP-515); Low-density lipoprotein receptor-related protein 1 intracellular domain (LRPICD)],LRP1,Q07954
+ferroxidase (EC 1.16.3.1),HEPHL1,Q6MZM0
+glutathione peroxidase (EC 1.11.1.9),GPX1,P07203
+"inositol-1,4-bisphosphate 1-phosphatase (EC 3.1.3.57)",INPP1,X5DRF6
+mRNA,RNGTT,O60942
+mitogen-activated protein kinase kinase (EC 2.7.12.2),MAP3K21,Q5TCX8
+non-specific serine/threonine protein kinase (EC 2.7.11.1),NME1,P15531
+peptidylprolyl isomerase (EC 5.2.1.8),PPWD1,Q96BP3
+protein acetyllysine N-acetyltransferase (EC 2.3.1.286),SIRT1,E9PC49
+rhomboid protease (EC 3.4.21.105),RHBDL1,B4DFK3
+von Willebrand factor (vWF),VWA1,Q6PCB0
+von Willebrand factor (vWF) [Cleaved into: von Willebrand antigen 2 (von Willebrand antigen II)],VWA1,Q6PCB0
+A-kinase anchoring protein 6,AKAP6,G3V569
+Beta globin chain,HBB,B5ANL9
+Centromere protein J,CPAP,Q9HC77
+Apolipoprotein C-IV (Apolipoprotein C4),APOC4,P55056
+CD72b,CD72,Q0H7P2
+Beta-ureidopropionase 1 (Uncharacterized protein DKFZp779O1248),UPB1,F8WC94
+Coagulation factor V,F5,P12259
+"Cytochrome P450, family 4, subfamily F, polypeptide 12",CYP4F12,Q8IV39
+ATP-dependent RNA helicase (EC 3.6.4.13),DDX52,Q9Y2R4
+A-kinase anchor protein 6 (AKAP-6) (A-kinase anchor protein 100 kDa) (AKAP 100) (Protein kinase A-anchoring protein 6) (PRKA6) (mAKAP),AKAP6,Q13023
+ACX136,ACX136,
+ACX82,ACX82,
+AEP3B2,AEP3B2,
+ATIII-T1,ATIII,
+ATIII-T2,ATIII,
+CEL protein,CEL,
+FAT atypical cadherin 4,FAT,
+HRV Fab 027-VL,HRV,
+NANUC-1 heavy chain,NANUC,
+Protein AMBP (Protein HC) [Cleaved into: Alpha-1-microglobulin (EC 1.6.2.-) (Alpha-1 microglycoprotein) (Complex-forming glycoprotein heterogeneous in charge); Inter-alpha-trypsin inhibitor light chain (ITI-LC) (Bikunin) (EDC1) (HI-30) (Uronic-acid-rich protein); Trypstatin],EDC1,
+Protein moonraker (MNR) (OFD1- and FOPNL-interacting protein),MNR,
+RAN binding protein 2,RAN,
+RAS guanyl releasing protein 2,RAS,
+REST corepressor 3,REST,
+RING finger protein 214,RING,
+SAA2-SAA4 readthrough,SAA2,
+SERPINC1 protein,SERPINC1,
+SPOC domain-containing protein 1,SPOC,
+Serum amyloid A-1 protein (SAA) [Cleaved into: Amyloid protein A (Amyloid fibril protein AA); Serum amyloid protein A(2-104); Serum amyloid protein A(3-104); Serum amyloid protein A(2-103); Serum amyloid protein A(2-102); Serum amyloid protein A(4-101)],SAA,
+Serum amyloid A-2 protein (SAA2) [Cleaved into: Amyloid A2 protein (AA2)],SAA2,
+Sex hormone-binding globulin (SHBG) (Sex steroid-binding protein) (SBP) (Testis-specific androgen-binding protein) (ABP) (Testosterone-estradiol-binding globulin) (TeBG) (Testosterone-estrogen-binding globulin),SHBG,
+Sodium channel protein type 9 subunit alpha (Neuroendocrine sodium channel) (hNE-Na) (Peripheral sodium channel 1) (PN1) (Sodium channel protein type IX subunit alpha) (Voltage-gated sodium channel subunit alpha Nav1.7),PN1,
+TBC1 domain family member 15 (GTPase-activating protein RAB7) (GAP for RAB7) (Rab7-GAP),TBC1,
+TBC1 domain family member 5,TBC1,
+"TBC1 domain family, member 15, isoform CRA_d (cDNA FLJ77374)",TBC1,
+THBS1 protein,THBS1,
+TNFAIP3 interacting protein 1,TNFAIP3,
+TNFAIP3-interacting protein 1 (A20-binding inhibitor of NF-kappa-B activation 1) (ABIN-1) (HIV-1 Nef-interacting protein) (Nef-associated factor 1) (Naf1) (Nip40-1) (Virion-associated nuclear shuttling protein) (VAN) (hVAN),TNFAIP3,
+TNR protein,TNR,
+Topoisomerase (DNA) II binding protein 1,DNA,
+Transmembrane protein 135 (Peroxisomal membrane protein 52) (PMP52),PMP52,
+Transthyretin (ATTR) (Prealbumin) (TBPA),ATTR,
+U11/U12 small nuclear ribonucleoprotein 35 kDa protein (U11/U12 snRNP 35 kDa protein) (U11/U12-35K) (Protein HM-1) (U1 snRNP-binding protein homolog),U11,
+UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.15) (GlcNAc-1-P transferase) (G1PT) (GPT) (N-acetylglucosamine-1-phosphate transferase),UDP,
+UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.15) (GlcNAc-1-P transferase) (N-acetylglucosamine-1-phosphate transferase),UDP,
+V1-11 protein,V1,
+V4-2 protein,V4,
+VH3 protein,VH3,
+VH87-2 protein,VH87,
+VK3 protein,VK3,
+VL6 protein,VL6,
+Vitamin D-binding protein (DBP) (VDB) (Gc protein-derived macrophage activating factor) (Gc-MAF) (GcMAF) (Gc-globulin) (Group-specific component) (Gc) (Vitamin D-binding protein-macrophage activating factor) (DBP-maf),DBP,
+"WASP homolog-associated protein with actin, membranes and microtubules (WAS protein homology region 2 domain-containing protein 1) (WH2 domain-containing protein 1)",WASP,
+WW domain containing adaptor with coiled-coil,WW,
+WW domain-containing adapter protein with coiled-coil,WW,
+YLPM1 protein,YLPM1,
+ZBBX protein,ZBBX,
+"cDNA FLJ58638, highly similar to Homo sapiens Rho GTPase activating protein 28 (ARHGAP28), transcript variant 1, mRNA",ARHGAP28,
+"cDNA FLJ75416, highly similar to Homo sapiens complement factor H (CFH), mRNA",CFH,
+"cDNA FLJ77744, highly similar to Homo sapiens kallikrein B, plasma (Fletcher factor) 1 (KLKB1), mRNA",KLKB1,
+"cDNA FLJ77835, highly similar to Homo sapiens complement component 1, s subcomponent (C1S), transcript variant 2, mRNA",C1S,
+"cDNA, FLJ92374, highly similar to Homo sapiens C-type lectin domain family 3, member B (CLEC3B), mRNA",CLEC3B,
+"cDNA, FLJ93024, highly similar to Homo sapiens EGF-containing fibulin-like extracellular matrix protein 1 (EFEMP1), transcript variant 1, mRNA",EFEMP1,
+"cDNA, FLJ93143, highly similar to Homo sapiens complement component 7 (C7), mRNA",C7,
+"cDNA, FLJ93202, Homo sapiens protease inhibitor 16 (PI16), mRNA",PI16,
+"cDNA, FLJ94213, highly similar to Homo sapiens pregnancy-zone protein (PZP), mRNA",PZP,
+"cDNA, FLJ95794, highly similar to Homo sapiens apolipoprotein F (APOF), mRNA",APOF,
+A30 protein,A30,
+"ABC50 protein (ATP-binding cassette, sub-family F (GCN20), member 1)",ABC50,
+ABCA3 variant protein,ABCA3,
+AMP deaminase (EC 3.5.4.6),AMP,
+"APOL1 protein (Apolipoprotein L, 1)",APOL1,
+ARHGAP12 protein (Rho GTPase activating protein 12),ARHGAP12,
+"ATP-binding cassette, sub-family A (ABC1), member 3",ABC1,
+"Adiponectin (30 kDa adipocyte complement-related protein) (Adipocyte complement-related 30 kDa protein) (ACRP30) (Adipocyte, C1q and collagen domain-containing protein) (Adipose most abundant gene transcript 1 protein) (apM-1) (Gelatin-binding protein)",ACRP30,
+Alanine--glyoxylate aminotransferase (AGT) (EC 2.6.1.44) (Serine--pyruvate aminotransferase) (SPT) (EC 2.6.1.51),AGT,
+Alpha-1-antichymotrypsin (ACT) (Cell growth-inhibiting gene 24/25 protein) (Serpin A3) [Cleaved into: Alpha-1-antichymotrypsin His-Pro-less],ACT,
+Alpha-1-antitrypsin (Alpha-1 protease inhibitor) (Alpha-1-antiproteinase) (Serpin A1) [Cleaved into: Short peptide from AAT (SPAAT)],SPAAT,
+Bile salt-activated lipase (BAL) (EC 3.1.1.13) (EC 3.1.1.3) (EC 3.1.1.6) (Bile salt-stimulated lipase) (BSSL) (Bucelipase) (Carboxyl ester lipase) (Cholesterol esterase) (Pancreatic lysophospholipase) (Sterol esterase),BAL,
+CENPJ protein,CENPJ,
+CFI protein,CFI,
+Complement C3 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1) [Cleaved into: Complement C3 beta chain; C3-beta-c (C3bc); Complement C3 alpha chain; C3a anaphylatoxin; Acylation stimulating protein (ASP) (C3adesArg); Complement C3b alpha' chain; Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2],ASP,
+Cytochrome P450 4F12 (EC 1.14.14.1) (CYPIVF12),CYPIVF12,
+DNAJC1 protein,DNAJC1,
+"DnaJ (Hsp40) homolog, subfamily C, member 12, isoform CRA_a (JDP1 protein) (cDNA FLJ75242, highly similar to Homo sapiens DnaJ (Hsp40) homolog, subfamily C, member 12 (DNAJC12), transcript variant 1, mRNA)",DNAJC12,
+E3 SUMO-protein ligase PIAS4 (EC 2.3.2.27) (PIASy) (Protein inhibitor of activated STAT protein 4) (Protein inhibitor of activated STAT protein gamma) (PIAS-gamma),E3,
+"E3 ubiquitin-protein ligase UBR5 (EC 2.3.2.26) (E3 ubiquitin-protein ligase, HECT domain-containing 1) (Hyperplastic discs protein homolog) (hHYD) (Progestin-induced protein)",E3,
+EDAR associated via death domain,EDAR,
+EGF containing fibulin extracellular matrix protein 1,EGF,
+EGF containing fibulin-like extracellular matrix protein 1 isoform 1,EGF,
+"EGF containing fibulin-like extracellular matrix protein 1 isoform 2 (HCG16977, isoform CRA_b)",EGF,
+EGF-containing fibulin-like extracellular matrix protein 1 isoform b variant,EGF,
+"FERM, ARHGEF and pleckstrin domain-containing protein 1 (Chondrocyte-derived ezrin-like protein) (FERM, RhoGEF and pleckstrin domain-containing protein 1) (Pleckstrin homology domain-containing family C member 2) (PH domain-containing family C member 2)",FERM,
+"FYVE, RhoGEF and PH domain-containing protein 6 (Zinc finger FYVE domain-containing protein 24)",FYVE,
+GUGU gamma form,GUGU,
+"HCG2039812, isoform CRA_b (Keratin 6A isoform 1)",HCG2039812,
+"HLA class I histocompatibility antigen B alpha chain (Leukocyte antigen (HLA) class I molecule) (Lymphocyte antigen) (MHC class I antigen) (Major histocompatibility complex, class I, B)",HLA,
+Hepatocyte growth factor-like protein (Macrophage stimulatory protein) (Macrophage-stimulating protein) (MSP) [Cleaved into: Hepatocyte growth factor-like protein alpha chain; Hepatocyte growth factor-like protein beta chain],MSP,
+"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial (HCDH) (EC 1.1.1.35) (Medium and short-chain L-3-hydroxyacyl-coenzyme A dehydrogenase) (Short-chain 3-hydroxyacyl-CoA dehydrogenase)",HCDH,
+Inositol polyphosphate 1-phosphatase (IPP) (IPPase) (EC 3.1.3.57),IPP,
+Integrin alpha-D (ADB2) (CD11 antigen-like family member D) (Leukointegrin alpha D) (CD antigen CD11d),ADB2,
+Inter-alpha-trypsin inhibitor heavy chain H1 (ITI heavy chain H1) (ITI-HC1) (Inter-alpha-inhibitor heavy chain 1) (Inter-alpha-trypsin inhibitor complex component III) (Serum-derived hyaluronan-associated protein) (SHAP),SHAP,
+KIF5A variant protein,KIF5A,
+KIF5B-RET(NM_020630)_K24R11 fusion protein,KIF5B,
+KRT83 protein,KRT83,
+"Keratin, type II cuticular Hb1 (Hair keratin K2.9) (Keratin, hair, basic, 1) (Keratin-81) (K81) (Metastatic lymph node 137 gene protein) (MLN 137) (Type II hair keratin Hb1) (Type-II keratin Kb21) (ghHKb1) (ghHb1)",K81,
+"Keratin, type II cuticular Hb3 (Hair keratin K2.10) (Keratin-83) (K83) (Type II hair keratin Hb3) (Type-II keratin Kb23)",K83,
+"Keratin, type II cuticular Hb5 (Hair keratin K2.12) (Keratin-85) (K85) (Type II hair keratin Hb5) (Type-II keratin Kb25)",K85,
+"Keratin, type II cuticular Hb6 (Hair keratin K2.11) (Keratin-86) (K86) (Type II hair keratin Hb6) (Type-II keratin Kb26)",K86,
+"Keratin, type II cytoskeletal 5 (58 kDa cytokeratin) (Cytokeratin-5) (CK-5) (Keratin-5) (K5) (Type-II keratin Kb5)",K5,
+"Keratin, type II cytoskeletal 6B (Cytokeratin-6B) (CK-6B) (Keratin-6B) (K6B) (Type-II keratin Kb10)",K6B,
+"Keratin, type II cytoskeletal 6C (Cytokeratin-6C) (CK-6C) (Cytokeratin-6E) (CK-6E) (Keratin K6h) (Keratin-6C) (K6C) (Type-II keratin Kb12)",K6C,
+"Keratin, type II cytoskeletal 75 (Cytokeratin-75) (CK-75) (Keratin-6 hair follicle) (hK6hf) (Keratin-75) (K75) (Type II keratin-K6hf) (Type-II keratin Kb18)",K75,
+"Keratin, type II cytoskeletal 79 (Cytokeratin-79) (CK-79) (Keratin-6-like) (Keratin-6L) (Keratin-79) (K79) (Type-II keratin Kb38)",K79,
+Kinesin heavy chain isoform 5A (Kinesin heavy chain neuron-specific 1) (Neuronal kinesin heavy chain) (NKHC),NKHC,
+Kinesin-1 heavy chain (Conventional kinesin heavy chain) (Ubiquitous kinesin heavy chain) (UKHC),UKHC,
+Lymphocyte cytosolic protein 2 (SH2 domain-containing leukocyte protein of 76 kDa) (SLP-76 tyrosine phosphoprotein) (SLP76),SLP76,
+MST1 protein,MST1,
+"Microtubule-actin cross-linking factor 1, isoforms 1/2/3/4/5 (620 kDa actin-binding protein) (ABP620) (Actin cross-linking family protein 7) (Macrophin-1) (Trabeculin-alpha)",ABP620,
+NUMA1 variant protein,NUMA1,
+"Neutrophil defensin 1 (Defensin, alpha 1) (HNP-1) (HP-1) (HP1) [Cleaved into: HP 1-56; Neutrophil defensin 2 (HNP-2) (HP-2) (HP2)]",HP1,
+POLS protein,POLS,
+"POTE ankyrin domain family member E (ANKRD26-like family C member 1A) (Prostate, ovary, testis-expressed protein on chromosome 2) (POTE-2)",POTE,
+POTE ankyrin domain family member F (ANKRD26-like family C member 1B) (Chimeric POTE-actin protein),POTE,
+POTE ankyrin domain family member I,POTE,
+POTE ankyrin domain family member J,POTE,
+"PREDICTED: integrin, alpha D variant",PREDICTED,
+Peroxiredoxin-1 (EC 1.11.1.24) (Natural killer cell-enhancing factor A) (NKEF-A) (Proliferation-associated gene protein) (PAG) (Thioredoxin peroxidase 2) (Thioredoxin-dependent peroxide reductase 2) (Thioredoxin-dependent peroxiredoxin 1),PAG,
+Pigment epithelium-derived factor (PEDF) (Cell proliferation-inducing gene 35 protein) (EPC-1) (Serpin F1),PEDF,
+"Poly [ADP-ribose] polymerase 1 (PARP-1) (EC 2.4.2.30) (ADP-ribosyltransferase diphtheria toxin-like 1) (ARTD1) (DNA ADP-ribosyltransferase PARP1) (EC 2.4.2.-) (NAD(+) ADP-ribosyltransferase 1) (ADPRT 1) (Poly[ADP-ribose] synthase 1) (Protein poly-ADP-ribosyltransferase PARP1) (EC 2.4.2.-) [Cleaved into: Poly [ADP-ribose] polymerase 1, processed C-terminus (Poly [ADP-ribose] polymerase 1, 89-kDa form); Poly [ADP-ribose] polymerase 1, processed N-terminus (NT-PARP-1) (Poly [ADP-ribose] polymerase 1, 24-kDa form) (Poly [ADP-ribose] polymerase 1, 28-kDa form)]",ARTD1,
+Protein RRP5 homolog (NF-kappa-B-binding protein) (NFBP) (Programmed cell death protein 11),NFBP,
+Protein Z-dependent protease inhibitor (PZ-dependent protease inhibitor) (PZI) (Serpin A10),PZI,
+RTL1 protein,RTL1,
+Retinol-binding protein 4 (Plasma retinol-binding protein) (PRBP) (RBP) [Cleaved into: Plasma retinol-binding protein(1-182); Plasma retinol-binding protein(1-181); Plasma retinol-binding protein(1-179); Plasma retinol-binding protein(1-176)],PRBP,
+SARP3,SARP3,
+SYT10 protein,SYT10,
+Secretogranin-2 (Chromogranin-C) (Secretogranin II) (SgII) [Cleaved into: Secretoneurin (SN); Manserin],SN,
+Tetranectin (TN) (C-type lectin domain family 3 member B) (Plasminogen kringle 4-binding protein),TN,
+UPB1 protein,UPB1,
+V1-16 protein,V1,
+V1-17 protein,V1,
+V1-19 protein,V1,
+V1-2 protein,V1,
+V1-20 protein,V1,
+V1-22 protein,V1,
+V1-4 protein,V1,
+V2-11 protein,V2,
+V2-13 protein,V2,
+V2-17 protein,V2,
+V2-19 protein,V2,
+V2-6 protein,V2,
+V2-7 protein,V2,
+V3-2 protein,V3,
+V3-3 protein,V3,
+V3-4 protein,V3,
+V5-2 protein,V5,
+V5-4 protein,V5,
+V5-6 protein,V5,
+VH6DJ protein,VH6DJ,
+VPS37A subunit of ESCRT-I,VPS37A,
+WW domain binding protein 11,WW,
+WW domain-binding protein 11 (WBP-11) (Npw38-binding protein) (NpwBP) (SH3 domain-binding protein SNP70) (Splicing factor that interacts with PQBP-1 and PP1),WW,
+"cDNA FLJ53934, highly similar to Homo sapiens RNA pseudouridylate synthase domain containing 2 (RPUSD2), mRNA",RPUSD2,
+"cDNA FLJ54391, highly similar to Homo sapiens RNA pseudouridylate synthase domain containing 2 (RPUSD2), mRNA",RPUSD2,
+"cDNA FLJ58099, highly similar to Homo sapiens clathrin, heavy polypeptide-like 1 (CLTCL1), transcript variant 1, mRNA",CLTCL1,
+"cDNA FLJ75033, highly similar to Homo sapiens RAS and EF-hand domain containing (RASEF), mRNA",RASEF,
+"cDNA FLJ77849, highly similar to Homo sapiens keratin, hair, basic, 6 (monilethrix) (KRTHB6), mRNA",KRTHB6,
+"cDNA FLJ78504, highly similar to Homo sapiens keratin 6A (KRT6A), mRNA",KRT6A,
+"cDNA FLJ78752, highly similar to Homo sapiens centromere protein J (CENPJ), mRNA",CENPJ,
+"cDNA, FLJ93312, highly similar to Homo sapiens adipose most abundant gene transcript 1 (APM1), mRNA",APM1,
+"cDNA, FLJ93695, highly similar to Homo sapiens serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4 (SERPINA4), mRNA",SERPINA4,
+"cDNA, FLJ93744, highly similar to Homo sapiens keratin 6E (KRT6E), mRNA",KRT6E,
+"cDNA, FLJ94353, highly similar to Homo sapiens apolipoprotein L, 1 (APOL1), transcript variant 2, mRNA",APOL1,
+"cDNA, FLJ94686, highly similar to Homo sapiens complement factor H-related 5 (CFHL5), mRNA",CFHL5,
+"cDNA, FLJ95587, highly similar to Homo sapiens ureidopropionase, beta (UPB1), mRNA",UPB1,
+"cDNA, FLJ95778, highly similar to Homo sapiens serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 10 (SERPINA10), mRNA",SERPINA10,
+"cDNA, FLJ95902, highly similar to Homo sapiens transcription elongation factor B polypeptide 3B(elongin A2) (TCEB3B), mRNA",TCEB3B,
+"cDNA, FLJ96188, highly similar to Homo sapiens kinesin family member 5A (KIF5A), mRNA",KIF5A,
+A30,A30,
+ABCF1,ABCF1,
+ARHGAP12,ARHGAP12,
+Anti-H1N1 influenza HA kappa chain variable region,None,
+Anti-IFN-G scFv,None,
+Anti-TN-C scFv,None,
+Antigen MLAA-35,None,
+B cell receptor kappa chain variable region,None,
+Beta-2-microglobulin [Cleaved into: Beta-2-microglobulin form pI 5.3],None,
+C-reactive protein [Cleaved into: C-reactive protein(1-205)],None,
+Cold agglutinin FS-1 L-chain,None,
+Complement C7,None,
+Complement component 5 variant,None,
+Complement component C9 [Cleaved into: Complement component C9a; Complement component C9b],None,
+Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain],None,
+Globin domain-containing protein,None,
+Heavy chain Fab,None,
+Heparin cofactor II splice isoform,None,
+IgG H chain,None,
+IgG L chain,None,
+Immunglobulin kappa chain variable region,None,
+Immunglobulin lambda chain variable region,None,
+Mutant Apo B 100,None,
+Protein FAM43B,None,
+Proteoglycan 4 (Lubricin) (Megakaryocyte-stimulating factor) (Superficial zone proteoglycan) [Cleaved into: Proteoglycan 4 C-terminal part],None,
+Prothrombin (EC 3.4.21.5) (Coagulation factor II) [Cleaved into: Activation peptide fragment 1; Activation peptide fragment 2; Thrombin light chain; Thrombin heavy chain],None,
+Protocadherin Fat 2 (hFat2) (Cadherin family member 8) (Multiple epidermal growth factor-like domains protein 1) (Multiple EGF-like domains protein 1),None,
+Protocadherin Fat 4 (hFat4) (Cadherin family member 14) (FAT tumor suppressor homolog 4) (Fat-like cadherin protein FAT-J),None,
+Pseudouridylate synthase RPUSD2 (EC 5.4.99.-) (RNA pseudouridylate synthase domain-containing protein 2),None,
+Putative G-protein coupled receptor,None,
+Putative macrophage stimulating 1-like protein (Brain rescue factor 1) (BRF-1) (Hepatocyte growth factor-like protein homolog),None,
+Putative olfactory receptor,None,
+Putative phospholipase B-like 2 (EC 3.1.1.-) (76 kDa protein) (p76) (LAMA-like protein 2) (Lamina ancestor homolog 2) (Phospholipase B domain-containing protein 2) [Cleaved into: Putative phospholipase B-like 2 32 kDa form; Putative phospholipase B-like 2 45 kDa form],None,
+Putative uncharacterized protein DANCR (Anti-differentiation ncRNA protein) (Differentiation antagonizing non-protein coding RNA) (Small nucleolar RNA host gene protein 13),None,
+R-spondin-4 (Roof plate-specific spondin-4) (hRspo4),None,
+RNA demethylase ALKBH5 (EC 1.14.11.53) (Alkylated DNA repair protein alkB homolog 5) (Alpha-ketoglutarate-dependent dioxygenase alkB homolog 5),None,
+Ras-related protein Rab-41,None,
+Rheumatoid factor C6 light chain,None,
+Rheumatoid factor D5 light chain,None,
+Rheumatoid factor G9 light chain,None,
+Rheumatoid factor RF-IP16,None,
+Rho GTPase-activating protein 12 (Rho-type GTPase-activating protein 12),None,
+Ribonuclease H1,None,
+Ring finger protein 214,None,
+S-arrestin (48 kDa protein) (Retinal S-antigen) (S-AG) (Rod photoreceptor arrestin),None,
+Selenoprotein P,None,
+Selenoprotein P (SeP),None,
+Serine/cysteine proteinase inhibitor clade G member 1 splice variant 2,None,
+Serine/threonine-protein kinase/endoribonuclease IRE2 (Endoplasmic reticulum-to-nucleus signaling 2) (Inositol-requiring protein 2) (hIRE2p) (Ire1-beta) (IRE1b) [Includes: Serine/threonine-protein kinase (EC 2.7.11.1); Endoribonuclease (EC 3.1.26.-)],None,
+Serotransferrin (Beta-1 metal-binding globulin) (Siderophilin),None,
+Serotransferrin (Transferrin) (Beta-1 metal-binding globulin) (Siderophilin),None,
+"Serpin family A member 1 (Serpin peptidase inhibitor, clade A (Alpha-1 antiproteinase, antitrypsin), member 1, isoform CRA_a)",None,
+"Serpin family A member 6 (Serpin peptidase inhibitor, clade A (Alpha-1 antiproteinase, antitrypsin), member 6, isoform CRA_a)",None,
+Serpin family F member 2,None,
+Serpin family G member 1,None,
+"Serpin peptidase inhibitor, clade D (Heparin cofactor), member 1",None,
+Serum amyloid A protein,None,
+Serum amyloid A-4 protein (Constitutively expressed serum amyloid A protein) (C-SAA),None,
+Serum paraoxonase/arylesterase 1 (PON 1) (EC 3.1.1.2) (EC 3.1.1.81) (EC 3.1.8.1) (Aromatic esterase 1) (A-esterase 1) (K-45) (Serum aryldialkylphosphatase 1),None,
+Sex hormone-binding globulin (Sex steroid-binding protein) (Testis-specific androgen-binding protein),None,
+Single chain Fv,None,
+Single-chain Fv,None,
+Solute carrier family 16 member 11,None,
+"Spectrin beta chain, erythrocytic (Beta-I spectrin)",None,
+Sperm-egg fusion protein TMEM95 (Transmembrane protein 95),None,
+Sulfhydryl oxidase (EC 1.8.3.2),None,
+Sulfhydryl oxidase 1 (hQSOX) (EC 1.8.3.2) (Quiescin Q6),None,
+Sushi domain-containing protein,None,
+Synemin (Desmuslin),None,
+Tektin-like protein 1 (Coiled-coil domain-containing protein 105),None,
+Tenascin-R (TN-R) (Janusin) (Restrictin),None,
+Terminal nucleotidyltransferase 4A (DNA polymerase sigma) (LAK-1) (Non-canonical poly(A) RNA polymerase PAPD7) (EC 2.7.7.19) (PAP-associated domain-containing protein 7) (TRAMP-like complex polyadenylate polymerase) (Terminal guanylyltransferase) (EC 2.7.7.-) (Terminal uridylyltransferase 5) (TUTase 5) (Topoisomerase-related function protein 4-1) (TRF4-1),None,
+Terminal nucleotidyltransferase 5B (EC 2.7.7.19) (Non-canonical poly(A) polymerase FAM46B),None,
+Testicular tissue protein Li 193,None,
+Testicular tissue protein Li 61,None,
+Thioredoxin-related transmembrane protein 2 (Cell proliferation-inducing gene 26 protein) (Thioredoxin domain-containing protein 14),None,
+Thioredoxin-related transmembrane protein 2 (Thioredoxin domain-containing protein 14),None,
+Thrombospondin 1,None,
+Thrombospondin-1 (Glycoprotein G),None,
+Thyroxine-binding globulin (Serpin A7) (T4-binding globulin),None,
+Titin,None,
+Titin (EC 2.7.11.1) (Connectin) (Rhabdomyosarcoma antigen MU-RMS-40.14),None,
+Transgelin-2 (Epididymis tissue protein Li 7e) (SM22-alpha homolog),None,
+Transmembrane protein 135,None,
+Transmembrane protein 198,None,
+Transmembrane serine protease 11A,None,
+Transthyretin,None,
+Truncated extracellular matrix protein 1,None,
+"Ts translation elongation factor, mitochondrial",None,
+Tudor domain containing 1,None,
+Tudor domain-containing protein 1 (Cancer/testis antigen 41.1) (CT41.1),None,
+Tyrosine-protein kinase (EC 2.7.10.2),None,
+Tyrosine-protein kinase BAZ1B (EC 2.7.10.2) (Bromodomain adjacent to zinc finger domain protein 1B) (Williams syndrome transcription factor) (Williams-Beuren syndrome chromosomal region 10 protein) (Williams-Beuren syndrome chromosomal region 9 protein) (hWALp2),None,
+Tyrosine-protein kinase Yes (EC 2.7.10.2) (Proto-oncogene c-Yes) (p61-Yes),None,
+Ubiquitin carboxyl-terminal hydrolase 7 (EC 3.4.19.12) (Deubiquitinating enzyme 7) (Herpesvirus-associated ubiquitin-specific protease) (Ubiquitin thioesterase 7) (Ubiquitin-specific-processing protease 7),None,
+Ubiquitin carboxyl-terminal hydrolase 7 (EC 3.4.19.12) (Ubiquitin thioesterase 7) (Ubiquitin-specific-processing protease 7),None,
+Ubiquitin protein ligase E3 component n-recognin 4,None,
+Uncharacterized protein,None,
+Uncharacterized protein DKFZp686C02220,None,
+Uncharacterized protein DKFZp686C11235,None,
+Uncharacterized protein DKFZp686C15213,None,
+Uncharacterized protein DKFZp686G11190,None,
+Uncharacterized protein DKFZp686H17246,None,
+Uncharacterized protein DKFZp686I04196,None,
+Uncharacterized protein DKFZp686I15196,None,
+Uncharacterized protein DKFZp686K04218,None,
+Uncharacterized protein DKFZp686K18196,None,
+Uncharacterized protein DKFZp686L19235,None,
+Uncharacterized protein DKFZp686M24218,None,
+Uncharacterized protein DKFZp686N02209,None,
+Uncharacterized protein DKFZp686O01196,None,
+Uncharacterized protein DKFZp781M0386,None,
+Urocanate hydratase (Urocanase) (EC 4.2.1.49) (Imidazolonepropionate hydrolase),None,
+Vacuolar protein sorting-associated protein 37A (hVps37A) (ESCRT-I complex subunit VPS37A) (Hepatocellular carcinoma-related protein 1),None,
+Vasorin (Protein slit-like 2),None,
+Vitamin D binding protein,None,
+Vitamin D-binding protein (Gc-globulin) (Group-specific component),None,
+Vitamin K-dependent protein S,None,
+Zinc finger CCHC domain-containing protein 17 (Nucleolar protein of 40 kDa) (pNO40) (Pnn-interacting nucleolar protein) (Putative S1 RNA-binding domain protein) (PS1D protein),None,
+Zinc finger CCHC-type containing 17,None,
+Zinc finger protein 268 (Zinc finger protein HZF3),None,
+Zinc finger protein 419,None,
+Zinc finger protein 433,None,
+Zinc finger protein 469,None,
+Zinc finger protein 641,None,
+[histone H3]-trimethyl-L-lysine(27) demethylase (EC 1.14.11.68),None,
+cDNA FLJ50222,None,
+"cDNA FLJ51597, highly similar to C4b-binding protein alpha chain",None,
+"cDNA FLJ51742, highly similar to Inter-alpha-trypsin inhibitor heavy chain H4",None,
+"cDNA FLJ52074, highly similar to Homo sapiens KM-HN-1 protein (KM-HN-1), mRNA",None,
+"cDNA FLJ52942, highly similar to Nucleolar protein of 40 kDa",None,
+"cDNA FLJ53025, highly similar to Complement C4-B",None,
+"cDNA FLJ53075, highly similar to Kininogen-1",None,
+"cDNA FLJ53364, highly similar to Proteoglycan-4",None,
+"cDNA FLJ54228, highly similar to Leucine-rich alpha-2-glycoprotein",None,
+"cDNA FLJ54583, highly similar to Galectin-3-binding protein",None,
+"cDNA FLJ56324, highly similar to Hepatocyte growth factor-like protein",None,
+"cDNA FLJ56954, highly similar to Inter-alpha-trypsin inhibitor heavy chain H1",None,
+"cDNA FLJ58075, highly similar to Ceruloplasmin",None,
+"cDNA FLJ58286, highly similar to Actin, cytoplasmic 2",None,
+"cDNA FLJ58423, highly similar to Golgi reassembly-stacking protein 1",None,
+"cDNA FLJ58441, highly similar to Attractin",None,
+"cDNA FLJ59036, highly similar to von Willebrand factor",None,
+"cDNA FLJ60316, highly similar to Apolipoprotein-L1",None,
+"cDNA FLJ61558, highly similar to Methyl-CpG-binding domain protein 5",None,
+"cDNA FLJ61578, highly similar to Bromodomain-containing protein 1",None,
+"cDNA FLJ61694, highly similar to Proteoglycan-4",None,
+"cDNA FLJ78680, highly similar to Homo sapiens dishevelled associated activator of morphogenesis 1, mRNA",None,
+complement subcomponent C1r (EC 3.4.21.41),None,
+ATP binding cassette subfamily F member 1,None,
+ATP-dependent RNA helicase DDX51 (EC 3.6.4.13) (DEAD box protein 51),None,
+Actin alpha 1 skeletal muscle protein,None,
+Actin alpha cardiac muscle 1,None,
+"Actin beta (HCG15971, isoform CRA_b)",None,
+"Actin, alpha cardiac muscle 1 (EC 3.6.4.-) (Alpha-cardiac actin) [Cleaved into: Actin, alpha cardiac muscle 1, intermediate form]",None,
+"Actin, alpha skeletal muscle (EC 3.6.4.-) (Alpha-actin-1) [Cleaved into: Actin, alpha skeletal muscle, intermediate form]",None,
+"Actin, aortic smooth muscle (EC 3.6.4.-) (Alpha-actin-2) (Cell growth-inhibiting gene 46 protein) [Cleaved into: Actin, aortic smooth muscle, intermediate form]",None,
+"Actin, cytoplasmic 1",None,
+"Actin, cytoplasmic 1 (EC 3.6.4.-) (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]",None,
+"Actin, cytoplasmic 2",None,
+"Actin, cytoplasmic 2 (EC 3.6.4.-) (Gamma-actin) [Cleaved into: Actin, cytoplasmic 2, N-terminally processed]",None,
+Adenosine monophosphate deaminase 3,None,
+"Adiponectin A (Complement component 1, q subcomponent, B chain, isoform CRA_a)",None,
+"Adiponectin B (Complement component 1, q subcomponent, C chain, isoform CRA_a)",None,
+Adiponectin D,None,
+Alpha-1-acid glycoprotein 1 (AGP 1) (Orosomucoid-1) (OMD 1),None,
+"Alpha-1-globin (Alpha-2 globin chain) (Delta globin) (HCG1745306, isoform CRA_b) (Mutant hemoglobin subunit alpha 1)",None,
+Alpha-1B-glycoprotein (Alpha-1-B glycoprotein),None,
+"Alpha-globin (HCG1745306, isoform CRA_a) (Hemoglobin subunit alpha 1) (Hemoglobin subunit alpha 2)",None,
+Alternative protein CHTF8,None,
+Alternative protein POTEM,None,
+Angiogenin (EC 3.1.27.-) (Ribonuclease 5) (RNase 5),None,
+Ankyrin repeat domain-containing protein 36A,None,
+Anti-FactorVIII scFv,None,
+Anti-staphylococcal enterotoxin D variable region kappa chain,None,
+Anti-staphylococcal enterotoxin E variable region lambda chain,None,
+Apolipoprotein A-I (Apo-AI) (ApoA-I) (Apolipoprotein A1) [Cleaved into: Proapolipoprotein A-I (ProapoA-I); Truncated apolipoprotein A-I (Apolipoprotein A-I(1-242))],None,
+Apolipoprotein A-II (Apo-AII) (ApoA-II) (Apolipoprotein A2) [Cleaved into: Proapolipoprotein A-II (ProapoA-II); Truncated apolipoprotein A-II (Apolipoprotein A-II(1-76))],None,
+Apolipoprotein B-100 (Apo B-100) [Cleaved into: Apolipoprotein B-48 (Apo B-48)],None,
+Apolipoprotein C-IV (Apo-CIV) (ApoC-IV) (Apolipoprotein C4),None,
+Apolipoprotein L1-B3,None,
+Apolipoprotein(a) (Apo(a)) (Lp(a)) (EC 3.4.21.-),None,
+"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1 (130 kDa phosphatidylinositol 4,5-bisphosphate-dependent ARF1 GTPase-activating protein) (ADP-ribosylation factor-directed GTPase-activating protein 1) (ARF GTPase-activating protein 1) (Development and differentiation-enhancing factor 1) (DEF-1) (Differentiation-enhancing factor 1) (PIP2-dependent ARF1 GAP)",None,
+"ArfGAP with SH3 domain, ankyrin repeat and PH domain 1 (Development and differentiation enhancing factor 1, isoform CRA_b)",None,
+B-cell differentiation antigen CD72 (Lyb-2) (CD antigen CD72),None,
+Beta globin,None,
+Beta-actin-like protein 2 (Kappa-actin),None,
+Beta-globin (Beta-hemoglobin),None,
+"Beta-globin (Globin A1) (Hemoglobin subunit beta) (Hemoglobin, beta)",None,
+Beta-spectrin,None,
+Beta-ureidopropionase (EC 3.5.1.6) (BUP-1) (Beta-alanine synthase) (N-carbamoyl-beta-alanine amidohydrolase),None,
+C-type lectin domain family 3 member B,None,
+Carboxylic ester hydrolase (EC 3.1.1.-),None,
+Centromere protein J (CENP-J) (Centrosomal P4.1-associated protein) (LAG-3-associated protein) (LYST-interacting protein 1),None,
+Centromere protein N,None,
+Centrosomal protein 85,None,
+Chondroadherin-like protein,None,
+Clathrin heavy chain 2 (Clathrin heavy chain on chromosome 22) (CLH-22),None,
+"Coagulation factor V (Activated protein C cofactor) (Proaccelerin, labile factor) [Cleaved into: Coagulation factor V heavy chain; Coagulation factor V light chain]",None,
+Complement factor H-related protein 5 (FHR-5),None,
+"Complement factor properdin isoform 1 (Complement factor properdin, isoform CRA_d)",None,
+Cullin-1 (CUL-1),None,
+Cystatin-C (Cystatin-3) (Gamma-trace) (Neuroendocrine basic polypeptide) (Post-gamma-globulin),None,
+"DNA polymerase delta interacting protein 2 (cDNA FLJ52257, highly similar to Polymerase delta-interacting protein 2)",None,
+DNA topoisomerase 2-binding protein 1 (DNA topoisomerase II-beta-binding protein 1) (TopBP1) (DNA topoisomerase II-binding protein 1),None,
+DNA-directed RNA polymerase II subunit RPB9 (RNA polymerase II subunit B9) (DNA-directed RNA polymerase II subunit I) (RNA polymerase II 14.5 kDa subunit) (RPB14.5),None,
+"Defensin, alpha 3, neutrophil-specific",None,
+"Delta globin (Delta-globin chain) (Globin A2) (Hemoglobin delta) (Hemoglobin, delta)",None,
+"Desmuslin, isoform CRA_a (Synemin)",None,
+DnaJ heat shock protein family (Hsp40) member C12,None,
+DnaJ homolog subfamily C member 1 (DnaJ protein homolog MTJ1),None,
+DnaJ-like protein,None,
+Dual specificity mitogen-activated protein kinase kinase 2 (EC 2.7.12.2) (ERK activator kinase 2) (MAPK/ERK kinase 2),None,
+Dual specificity mitogen-activated protein kinase kinase 2 (MAP kinase kinase 2) (MAPKK 2) (EC 2.7.12.2) (ERK activator kinase 2) (MAPK/ERK kinase 2) (MEK 2),None,
+Ectodysplasin-A receptor-associated adapter protein (EDAR-associated death domain protein) (Protein crinkled homolog),None,
+Elongin-A2 (EloA2) (RNA polymerase II transcription factor SIII subunit A2) (Transcription elongation factor B polypeptide 3B),None,
+Epididymis secretory sperm binding protein Li 78p (Fibrinogen beta chain),None,
+Epididymis tissue protein Li 173 (Serpin peptidase inhibitor clade G member 1 isoform 1),None,
+Fc gamma binding protein,None,
+Fc of IgG low affinity IIIa receptor isoform 1,None,
+Fetuin B,None,
+Fibrinogen beta chain,None,
+Focadhesin,None,
+Galectin 3 binding protein (Lectin galactoside-binding soluble 3 binding protein isoform 2),None,
+Globin C1 (Globin C2),None,
+Glutamine and serine rich 1,None,
+Glutamine and serine-rich protein 1,None,
+HLA Class I antigen,None,
+HLA class I histocompatibility antigen (HLA-B protein) (MHC class I antigen),None,
+HLA class I histocompatibility antigen (MHC class I antigen),None,
+HLA class I histocompatibility antigen (MHC class I antigen) (MHC class I protein (HLA-B)),None,
+HLA class I histocompatibility antigen (MHC class I antigen) (MHC class I protein),None,
+HLA class I histocompatibility antigen B alpha chain (MHC class I antigen),None,
+"HLA class I histocompatibility antigen B alpha chain (MHC class I antigen) (Major histocompatibility complex, class I, B)",None,
+"HLA class I histocompatibility antigen C alpha chain (MHC class I antigen) (Major histocompatibility complex, class I, C)",None,
+HLA-A*0217 protein,None,
+HLA-B,HLA-B,
+HLA-B alpha-chain,None,
+HLA-B antigen,None,
+HLA-B protein,None,
+HLA-B protein (MHC class I HLA-B*1520) (MHC class I antigen),None,
+HLA-B*1513 (MHC class I antigen) (Transmembrane glycoprotein),None,
+HLA-B*1521,None,
+HLA-B15MD,None,
+HLA-B35,None,
+HLA-Bw62 antigen,None,
+HLA-C protein,None,
+HLA-Cw*0304,None,
+Heavy chain of factor I,None,
+Helicase with zinc finger 2,None,
+Hemoglobin alpha 1 globin chain,None,
+Hemoglobin alpha 2,None,
+Hemoglobin beta chain,None,
+Hemoglobin beta chain variant Hb-I_Toulouse,None,
+Hemoglobin beta chain variant Hb.Sinai-Bel Air,None,
+Hemoglobin subunit alpha 2,None,
+Hepatocyte growth factor-like protein homolog,None,
+Heterogeneous nuclear ribonucleoprotein F,None,
+"Heterogeneous nuclear ribonucleoprotein F (hnRNP F) (Nucleolin-like protein mcs94-1) [Cleaved into: Heterogeneous nuclear ribonucleoprotein F, N-terminally processed]",None,
+Hydroxyacyl-CoA dehydrogenase,None,
+IgGFc-binding protein (Fcgamma-binding protein antigen) (FcgammaBP),None,
+Inositol polyphosphate-1-phosphatase isoform 2,None,
+Inositol polyphosphate-1-phosphatase isoform A,None,
+Insulin-like growth factor binding protein 3 isoform b,None,
+"Insulin-like growth factor binding protein, acid labile subunit",None,
+Interferon induced transmembrane protein 1,None,
+Interferon induced transmembrane protein 2,None,
+Interferon induced transmembrane protein 3,None,
+Isoform 3 of Ankyrin repeat domain-containing protein 36A,None,
+Isoform 4 of Ankyrin repeat domain-containing protein 36A,None,
+Kallistatin (Kallikrein inhibitor) (Peptidase inhibitor 4) (PI-4) (Serpin A4),None,
+Keratin 86,None,
+"Keratin, type II cytoskeletal 2 epidermal (Cytokeratin-2e) (CK-2e) (Epithelial keratin-2e) (Keratin-2 epidermis) (Keratin-2e) (K2e) (Type-II keratin Kb2)",None,
+"Keratin, type II cytoskeletal 5 (Cytokeratin-5) (Keratin-5) (Type-II keratin Kb5)",None,
+Kinesin family member 5C,None,
+Kinesin heavy chain isoform 5C (EC 3.6.4.-) (Kinesin heavy chain neuron-specific 2) (Kinesin-1),None,
+Kinesin heavy chain isoform 5C variant,None,
+Leucocyte antigen,None,
+Leucocyte antigen A,None,
+Leucocyte antigen B,None,
+Light chain Fab,None,
+"Lipoprotein, Lp(A)",None,
+Lymphocyte antigen,None,
+Lymphocyte antigen (MHC class I antigen),None,
+Lymphocyte antigen (MHC class I antigen) (MHC class I histocompatibility antigen),None,
+MHC Class I antigen,None,
+"MHC Class I antigen, alpha 1 domain",None,
+MHC class I,None,
+MHC class I HLA-B,None,
+MHC class I HLA-B heavy chain (MHC class I antigen),None,
+MHC class I antigen (MHC class I protein),None,
+MHC class I antigen (Major histocompatibility complex class I),None,
+MHC class I antigen B*5801,None,
+MHC class I antigen HLA-B,None,
+MHC class I antigen HLA-B heavy chain,None,
+MHC class I antigen HLA-C,None,
+MHC class I antigen SHCHA,None,
+MHC class I human leukocyte antigen,None,
+MHC class I molecule,None,
+MHC class antigen I,None,
+Macrophage stimulating 1,None,
+Macrophage stimulating 1 (Hepatocyte growth factor-like) variant,None,
+Maestro heat like repeat family member 2B,None,
+Major histocompatibility antigen HLA-C,None,
+Major histocompatibility complex class I,None,
+Microfibrillar protein 2,None,
+Microtubule actin crosslinking factor 1,None,
+"Mucin 7, secreted",None,
+Mucin-7 (MUC-7) (Apo-MG2) (Salivary mucin-7),None,
+"Multiple PDZ domain crumbs cell polarity complex component (cDNA, FLJ79388, highly similar to Multiple PDZ domain protein)",None,
+Mutant beta globin,None,
+Mutant beta-globin,None,
+Mutant coagulation factor IX,None,
+Mutant hemoglobin alpha 2 globin chain,None,
+NAD(+) ADP-ribosyltransferase (EC 2.4.2.30),None,
+Nef-associated factor 1 SNP,None,
+Nonsense-mediated mRNA decay factor SMG5 (EST1-like protein B) (LPTS-RP1) (LPTS-interacting protein) (SMG-5 homolog) (hSMG-5),None,
+Nuclear mitotic apparatus protein 1 variant,None,
+"Papilin, proteoglycan like sulfated glycoprotein",None,
+Pentraxin family member,None,
+Peroxiredoxin-1 (Thioredoxin-dependent peroxiredoxin 1),None,
+Peroxisomal proliferator-activated receptor A interacting complex 285,None,
+Phospholipid transfer protein isoform a variant,None,
+Phospholipid-transporting ATPase ABCA3 (EC 7.6.2.1) (ABC-C transporter) (ATP-binding cassette sub-family A member 3) (ATP-binding cassette transporter 3) (ATP-binding cassette 3) (Xenobiotic-transporting ATPase ABCA3) (EC 7.6.2.2) [Cleaved into: 150 Kda mature form],None,
+Plasminogen (EC 3.4.21.7),None,
+"Plasminogen (EC 3.4.21.7) [Cleaved into: Plasmin heavy chain A; Activation peptide; Angiostatin; Plasmin heavy chain A, short form; Plasmin light chain B]",None,
+Polymerase delta-interacting protein 2 (38 kDa DNA polymerase delta interaction protein) (p38),None,
+Prefoldin subunit 4,None,
+Prefoldin subunit 4 (Protein C-1),None,
+Profilin,None,
+Profilin-1 (Epididymis tissue protein Li 184a) (Profilin I),None,
+Programmed cell death 11,None,
+"Protein inhibitor of activated STAT, 4 variant",None,
+Putative beta-actin-like protein 3 (Kappa-actin) (POTE ankyrin domain family member K),None,
+RNA polymerase II subunit I,None,
+Ras and EF-hand domain-containing protein (Ras-related protein Rab-45),None,
+Retinol dehydrogenase 13,None,
+Retinol dehydrogenase 13 (EC 1.1.1.300) (Short chain dehydrogenase/reductase family 7C member 3),None,
+Retinol-binding protein,None,
+Retrotransposon-like protein 1 (Mammalian retrotransposon derived protein 1) (Paternally expressed gene 11 protein) (Retrotransposon-derived protein PEG11),None,
+Rheumatoid factor RF-ET13,None,
+Secretogranin-2 (Secretogranin II),None,
+"Serpin family A member 10 (Serpin peptidase inhibitor, clade A (Alpha-1 antiproteinase, antitrypsin), member 10, isoform CRA_a)",None,
+Serpin peptidase inhibitor clade G member 1,None,
+Several ankyrin repeat protein transcript variant 2,None,
+Spectrin beta chain,None,
+"Spectrin, beta, erythrocytic (Includes spherocytosis, clinical type I) variant",None,
+StAR-related lipid transfer protein 9 (START domain-containing protein 9) (StARD9),None,
+Synaptic vesicle membrane protein VAT-1 homolog-like (EC 1.-.-.-),None,
+Synaptotagmin-10 (Synaptotagmin X) (SytX),None,
+Synemin,None,
+T-box 1,None,
+T-box 1 (T-box transcription factor TBX1 2),None,
+T-box transcription factor 1,None,
+T-box transcription factor TBX1 (T-box protein 1) (Testis-specific T-box protein),None,
+T-box transcription factor TBX10 (T-box protein 10),None,
+Terminal nucleotidyltransferase 4A,None,
+Testicular tissue protein Li 227,None,
+Testicular tissue protein Li 70,None,
+Transcription elongation factor B polypeptide 3B (Elongin A2),None,
+Transgelin,None,
+Transgelin 2,None,
+Transmembrane protease serine (EC 3.4.21.-),None,
+Transmembrane protease serine 11A (EC 3.4.21.-) (Airway trypsin-like protease 1) (Epidermal type-II transmembrane serine protease) (Esophageal cancer-susceptibility gene 1 protein),None,
+Truncated beta-globin,None,
+Truncated coagulation factor IX,None,
+Type II hair keratin 1,None,
+Type II hair keratin 6,None,
+Tyrosine-protein kinase receptor (EC 2.7.10.1),None,
+UGa8L,None,
+Ubiquitin protein ligase E3 component n-recognin 5,None,
+Ubiquitously transcribed tetratricopeptide repeat protein Y-linked transcript variant 276,None,
+Ubiquitously transcribed tetratricopeptide repeat protein Y-linked transcript variant 71,None,
+Uncharacterized protein CUL1,None,
+Uncharacterized protein DKFZp434P232,None,
+Uncharacterized protein DKFZp547P162,None,
+Uncharacterized protein DKFZp566O183,None,
+Uncharacterized protein DKFZp686O1553,None,
+Uncharacterized protein DKFZp762L185,None,
+Uncharacterized protein DKFZp779N0926,None,
+Uncharacterized protein EFEMP1,None,
+Uncharacterized protein KIF5C,None,
+V lambda,None,
+V(k)3 sequence of NG9 gene from fetal liver DNA,None,
+Vitronectin,None,
+Zinc finger B-box domain containing,None,
+Zinc finger B-box domain-containing protein 1,None,
+"cDNA FLJ50352, highly similar to Fetuin-B",None,
+"cDNA FLJ51288, highly similar to Kinesin heavy chain",None,
+"cDNA FLJ51361, highly similar to Keratin, type II cytoskeletal 6A",None,
+"cDNA FLJ51936, highly similar to Nef-associated factor 1",None,
+"cDNA FLJ53076, highly similar to Hepatocyte growth factor-like protein",None,
+"cDNA FLJ53509, highly similar to Galectin-3-binding protein",None,
+"cDNA FLJ53694, highly similar to Apolipoprotein-L1",None,
+"cDNA FLJ53910, highly similar to Keratin, type II cytoskeletal 6A",None,
+"cDNA FLJ53952, highly similar to Fibrinogen beta chain",None,
+"cDNA FLJ54379, highly similar to Keratin, type II cytoskeletal 6E",None,
+"cDNA FLJ54437, highly similar to RRP5 protein homolog",None,
+"cDNA FLJ54657, highly similar to Keratin, type II cytoskeletal 6A",None,
+"cDNA FLJ54707, highly similar to Multiple PDZ domain protein",None,
+"cDNA FLJ54743, highly similar to Multiple PDZ domain protein",None,
+"cDNA FLJ55004, highly similar to Complement-activating component of Ra-reactive factor",None,
+"cDNA FLJ55670, highly similar to EGF-containing fibulin-like extracellularmatrix protein 1",None,
+"cDNA FLJ55910, highly similar to Keratin, type II cuticular Hb6",None,
+"cDNA FLJ56536, highly similar to ATP-binding cassette sub-family F member 1",None,
+"cDNA FLJ56756, highly similar to Serine--pyruvate aminotransferase (cDNA, FLJ79394, highly similar to Serine--pyruvate aminotransferase)",None,
+"cDNA FLJ56821, highly similar to Inter-alpha-trypsin inhibitor heavy chain H1",None,
+"cDNA FLJ56961, highly similar to Clathrin heavy chain 2 (CLH-22)",None,
+"cDNA FLJ57378, highly similar to Lymphocyte cytosolic protein 2",None,
+"cDNA FLJ57832, highly similar to Serine--pyruvate aminotransferase",None,
+"cDNA FLJ58093, highly similar to StAR-related lipid transfer protein 9",None,
+"cDNA FLJ58174, highly similar to WW domain-binding protein 11",None,
+"cDNA FLJ58407, highly similar to Lymphocyte cytosolic protein 2",None,
+"cDNA FLJ58414, highly similar to DNA polymerase sigma",None,
+"cDNA FLJ58509, highly similar to Cullin-1",None,
+"cDNA FLJ59922, highly similar to Keratin, type II cytoskeletal 5",None,
+"cDNA FLJ60194, highly similar to WW domain-binding protein 11",None,
+"cDNA FLJ60647, highly similar to Keratin, type II cytoskeletal 6B",None,
+"cDNA FLJ61022, highly similar to Nef-associated factor 1",None,
+cDNA FLJ76322,None,
+cDNA FLJ77723,None,
+"cDNA FLJ77823, highly similar to Homo sapiens EGF-containing fibulin-like extracellular matrix protein 1, transcript variant 3, mRNA",None,
+"cDNA FLJ77844, highly similar to Homo sapiens TNFAIP3 interacting protein 1, mRNA",None,
+"cDNA, FLJ79457, highly similar to Insulin-like growth factor-binding proteincomplex acid labile chain",None,
+thioredoxin-dependent peroxiredoxin (EC 1.11.1.24),None,
+Alpha-1-acid glycoprotein,None,
+Apolipoprotein A-I,None,
+Apolipoprotein A-II (Apolipoprotein A2),None,
+Apolipoprotein B (Including Ag(X) antigen),None,
+Complement C3,None,
+Anti-HCS scFv,None,
+Anti-TeTox scFv,None,
+Alanine--glyoxylate aminotransferase (EC 2.6.1.44) (EC 2.6.1.51),None,
+"ArfGAP with SH3 domain, ankyrin repeat and PH domain 1",None,
+Chondroadherin like,None,
+DNA topoisomerase II binding protein 1,None,
+Clathrin heavy chain like 1,None,
+ATP binding cassette subfamily A member 3,None,
+Beta globin (Hemoglobin),None,

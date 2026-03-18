@@ -1,0 +1,379 @@
+pathway_id,pathway_name,source,n_genes
+GO:0110165,cellular anatomical structure,GO:CC,272
+GO:0072562,blood microparticle,GO:CC,47
+KEGG:05133,Pertussis,KEGG,14
+WP:WP2806,Complement system,WP,32
+GO:0048583,regulation of response to stimulus,GO:BP,109
+GO:0004252,serine-type endopeptidase activity,GO:MF,38
+GO:0140096,"catalytic activity, acting on a protein",GO:MF,73
+GO:0032102,negative regulation of response to external stimulus,GO:BP,24
+GO:0030141,secretory granule,GO:CC,43
+GO:1905953,negative regulation of lipid localization,GO:BP,6
+GO:0043603,amide metabolic process,GO:BP,7
+WP:WP1533,Vitamin B12 metabolism,WP,9
+REAC:R-HSA-1474244,Extracellular matrix organization,REAC,10
+GO:0004867,serine-type endopeptidase inhibitor activity,GO:MF,16
+GO:0016787,hydrolase activity,GO:MF,103
+GO:0046330,positive regulation of JNK cascade,GO:BP,3
+WP:WP5104,Acquired partial lipodystrophy Barraquer Simons syndrome,WP,3
+GO:0007165,signal transduction,GO:BP,87
+GO:0050922,negative regulation of chemotaxis,GO:BP,3
+GO:0001848,complement binding,GO:MF,11
+GO:0051050,positive regulation of transport,GO:BP,30
+GO:0004857,enzyme inhibitor activity,GO:MF,30
+GO:0001867,"complement activation, lectin pathway",GO:BP,8
+GO:0008037,cell recognition,GO:BP,13
+GO:0141061,disruption of cell in another organism,GO:BP,15
+GO:0006954,inflammatory response,GO:BP,39
+REAC:R-HSA-109582,Hemostasis,REAC,42
+REAC:R-HSA-140837,Intrinsic Pathway of Fibrin Clot Formation,REAC,10
+REAC:R-HSA-166786,Creation of C4 and C2 activators,REAC,9
+GO:0016485,protein processing,GO:BP,20
+GO:0031089,platelet dense granule lumen,GO:CC,7
+GO:0006909,phagocytosis,GO:BP,19
+REAC:R-HSA-174577,Activation of C3 and C5,REAC,6
+GO:0032677,regulation of interleukin-8 production,GO:BP,5
+GO:0031410,cytoplasmic vesicle,GO:CC,66
+GO:0051607,defense response to virus,GO:BP,4
+GO:0071813,lipoprotein particle binding,GO:MF,5
+GO:0010811,positive regulation of cell-substrate adhesion,GO:BP,5
+GO:0009617,response to bacterium,GO:BP,31
+GO:0002920,regulation of humoral immune response,GO:BP,8
+GO:0006979,response to oxidative stress,GO:BP,16
+WP:WP5089,Kinin Kallikrein pathway,WP,5
+GO:0045807,positive regulation of endocytosis,GO:BP,13
+GO:0033194,response to hydroperoxide,GO:BP,4
+KEGG:05417,Lipid and atherosclerosis,KEGG,7
+REAC:R-HSA-140875,Common Pathway of Fibrin Clot Formation,REAC,7
+GO:0030175,filopodium,GO:CC,5
+GO:0070820,tertiary granule,GO:CC,9
+GO:0061024,membrane organization,GO:BP,10
+GO:0015267,channel activity,GO:MF,6
+GO:0071682,endocytic vesicle lumen,GO:CC,5
+REAC:R-HSA-9657689,Defective SERPING1 causes hereditary angioedema,REAC,3
+GO:0042581,specific granule,GO:CC,9
+GO:0034366,spherical high-density lipoprotein particle,GO:CC,4
+GO:0005509,calcium ion binding,GO:MF,28
+GO:0043277,apoptotic cell clearance,GO:BP,7
+REAC:R-HSA-166662,Lectin pathway of complement activation,REAC,4
+GO:0010628,positive regulation of gene expression,GO:BP,35
+GO:0001959,regulation of cytokine-mediated signaling pathway,GO:BP,3
+GO:0086003,cardiac muscle cell contraction,GO:BP,3
+GO:0044403,biological process involved in symbiotic interaction,GO:BP,11
+GO:0009593,detection of chemical stimulus,GO:BP,4
+GO:0048839,inner ear development,GO:BP,4
+GO:0002697,regulation of immune effector process,GO:BP,17
+REAC:R-HSA-390466,Chaperonin-mediated protein folding,REAC,3
+GO:0019433,triglyceride catabolic process,GO:BP,5
+GO:0017124,SH3 domain binding,GO:MF,3
+GO:0051592,response to calcium ion,GO:BP,5
+REAC:R-HSA-168898,Toll-like Receptor Cascades,REAC,7
+GO:0030212,hyaluronan metabolic process,GO:BP,5
+GO:0150172,regulation of phosphatidylcholine metabolic process,GO:BP,3
+REAC:R-HSA-173736,Alternative complement activation,REAC,3
+GO:0071695,anatomical structure maturation,GO:BP,4
+GO:0050830,defense response to Gram-positive bacterium,GO:BP,7
+GO:0002683,negative regulation of immune system process,GO:BP,18
+REAC:R-HSA-6803157,Antimicrobial peptides,REAC,3
+GO:0009897,external side of plasma membrane,GO:CC,15
+REAC:R-HSA-216083,Integrin cell surface interactions,REAC,4
+GO:0005622,intracellular anatomical structure,GO:CC,197
+GO:0055013,cardiac muscle cell development,GO:BP,4
+GO:0006801,superoxide metabolic process,GO:BP,4
+WP:WP4927,COVID 19 thrombosis and anticoagulation,WP,3
+GO:0032103,positive regulation of response to external stimulus,GO:BP,20
+GO:0050777,negative regulation of immune response,GO:BP,10
+GO:0009986,cell surface,GO:CC,24
+GO:1902041,regulation of extrinsic apoptotic signaling pathway via death domain receptors,GO:BP,5
+REAC:R-HSA-5693607,Processing of DNA double-strand break ends,REAC,3
+KEGG:05415,Diabetic cardiomyopathy,KEGG,4
+GO:0098581,detection of external biotic stimulus,GO:BP,4
+GO:0045765,regulation of angiogenesis,GO:BP,12
+GO:0036094,small molecule binding,GO:MF,116
+GO:2001236,regulation of extrinsic apoptotic signaling pathway,GO:BP,7
+REAC:R-HSA-110362,POLB-Dependent Long Patch Base Excision Repair,REAC,3
+GO:0034391,regulation of smooth muscle cell apoptotic process,GO:BP,4
+GO:0001525,angiogenesis,GO:BP,17
+GO:0032496,response to lipopolysaccharide,GO:BP,11
+GO:0019866,organelle inner membrane,GO:CC,5
+GO:2000352,negative regulation of endothelial cell apoptotic process,GO:BP,4
+GO:0005604,basement membrane,GO:CC,6
+GO:0005796,Golgi lumen,GO:CC,3
+GO:0005215,transporter activity,GO:MF,21
+GO:0098978,glutamatergic synapse,GO:CC,12
+GO:0009152,purine ribonucleotide biosynthetic process,GO:BP,7
+WP:WP383,Striated muscle contraction pathway,WP,4
+GO:0019730,antimicrobial humoral response,GO:BP,8
+GO:0010466,negative regulation of peptidase activity,GO:BP,4
+GO:0045619,regulation of lymphocyte differentiation,GO:BP,3
+GO:0061050,regulation of cell growth involved in cardiac muscle cell development,GO:BP,3
+GO:0072676,lymphocyte migration,GO:BP,4
+GO:1901018,positive regulation of potassium ion transmembrane transporter activity,GO:BP,3
+GO:0004197,cysteine-type endopeptidase activity,GO:MF,5
+GO:0030280,structural constituent of skin epidermis,GO:MF,4
+GO:0071222,cellular response to lipopolysaccharide,GO:BP,9
+REAC:R-HSA-3299685,Detoxification of Reactive Oxygen Species,REAC,4
+GO:0043268,positive regulation of potassium ion transport,GO:BP,4
+GO:0042692,muscle cell differentiation,GO:BP,13
+GO:0005520,insulin-like growth factor binding,GO:MF,3
+GO:1901701,cellular response to oxygen-containing compound,GO:BP,27
+GO:0055037,recycling endosome,GO:CC,5
+GO:0001817,regulation of cytokine production,GO:BP,20
+GO:0007565,female pregnancy,GO:BP,8
+GO:0010970,transport along microtubule,GO:BP,4
+GO:0005938,cell cortex,GO:CC,6
+GO:0045596,negative regulation of cell differentiation,GO:BP,16
+GO:0051258,protein polymerization,GO:BP,10
+GO:0016757,glycosyltransferase activity,GO:MF,4
+GO:2001234,negative regulation of apoptotic signaling pathway,GO:BP,8
+GO:0046697,decidualization,GO:BP,3
+GO:0008211,glucocorticoid metabolic process,GO:BP,3
+GO:0030198,extracellular matrix organization,GO:BP,10
+GO:0019865,immunoglobulin binding,GO:MF,3
+GO:0010883,regulation of lipid storage,GO:BP,4
+GO:0031960,response to corticosteroid,GO:BP,7
+GO:0002764,immune response-regulating signaling pathway,GO:BP,13
+GO:0034237,protein kinase A regulatory subunit binding,GO:MF,3
+GO:0045824,negative regulation of innate immune response,GO:BP,5
+GO:0001775,cell activation,GO:BP,25
+WP:WP2882,Nuclear receptors meta pathway,WP,7
+GO:0032760,positive regulation of tumor necrosis factor production,GO:BP,5
+GO:0002520,immune system development,GO:BP,4
+GO:0032675,regulation of interleukin-6 production,GO:BP,3
+GO:0007584,response to nutrient,GO:BP,6
+GO:0004806,triacylglycerol lipase activity,GO:MF,3
+GO:0061337,cardiac conduction,GO:BP,3
+GO:0016866,intramolecular transferase activity,GO:MF,3
+GO:0071333,cellular response to glucose stimulus,GO:BP,3
+GO:0051602,response to electrical stimulus,GO:BP,3
+GO:0030276,clathrin binding,GO:MF,4
+GO:0031503,protein-containing complex localization,GO:BP,5
+GO:0032757,positive regulation of interleukin-8 production,GO:BP,4
+GO:0003823,antigen binding,GO:MF,7
+GO:0032642,regulation of chemokine production,GO:BP,3
+GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,GO:BP,8
+GO:0003777,microtubule motor activity,GO:MF,4
+GO:0001819,positive regulation of cytokine production,GO:BP,13
+GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,GO:BP,5
+GO:0050921,positive regulation of chemotaxis,GO:BP,6
+GO:1903829,positive regulation of protein localization,GO:BP,13
+GO:0070741,response to interleukin-6,GO:BP,3
+GO:2001235,positive regulation of apoptotic signaling pathway,GO:BP,3
+GO:0048144,fibroblast proliferation,GO:BP,5
+GO:1900076,regulation of cellular response to insulin stimulus,GO:BP,4
+GO:0045730,respiratory burst,GO:BP,3
+GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,GO:BP,5
+GO:0030246,carbohydrate binding,GO:MF,9
+GO:0005496,steroid binding,GO:MF,5
+GO:2001252,positive regulation of chromosome organization,GO:BP,4
+GO:0010038,response to metal ion,GO:BP,10
+WP:WP5353,Macrophage stimulating protein MSP signaling,WP,3
+WP:WP4136,Fibrin complement receptor 3 signaling,WP,4
+GO:0010737,protein kinase A signaling,GO:BP,3
+GO:0022857,transmembrane transporter activity,GO:MF,12
+KEGG:04380,Osteoclast differentiation,KEGG,3
+GO:0120254,olefinic compound metabolic process,GO:BP,6
+GO:0071345,cellular response to cytokine stimulus,GO:BP,16
+GO:0009123,nucleoside monophosphate metabolic process,GO:BP,4
+GO:0045860,positive regulation of protein kinase activity,GO:BP,6
+GO:0010639,negative regulation of organelle organization,GO:BP,6
+GO:0030500,regulation of bone mineralization,GO:BP,4
+GO:0046622,positive regulation of organ growth,GO:BP,3
+GO:0046914,transition metal ion binding,GO:MF,24
+GO:0048306,calcium-dependent protein binding,GO:MF,4
+GO:1902106,negative regulation of leukocyte differentiation,GO:BP,3
+GO:0003755,peptidyl-prolyl cis-trans isomerase activity,GO:MF,3
+GO:0040017,positive regulation of locomotion,GO:BP,14
+WP:WP3584,MECP2 and associated Rett syndrome,WP,5
+GO:0006775,fat-soluble vitamin metabolic process,GO:BP,3
+GO:0031099,regeneration,GO:BP,6
+GO:0030216,keratinocyte differentiation,GO:BP,6
+GO:0046620,regulation of organ growth,GO:BP,4
+GO:0001503,ossification,GO:BP,9
+REAC:R-HSA-9707616,Heme signaling,REAC,4
+GO:0006968,cellular defense response,GO:BP,3
+GO:0048732,gland development,GO:BP,11
+GO:0051384,response to glucocorticoid,GO:BP,5
+GO:0051087,protein-folding chaperone binding,GO:MF,5
+GO:0019838,growth factor binding,GO:MF,5
+GO:0004714,transmembrane receptor protein tyrosine kinase activity,GO:MF,3
+GO:0097722,sperm motility,GO:BP,6
+GO:0002707,negative regulation of lymphocyte mediated immunity,GO:BP,3
+GO:0046785,microtubule polymerization,GO:BP,4
+GO:0007566,embryo implantation,GO:BP,3
+GO:0007018,microtubule-based movement,GO:BP,11
+GO:0020037,heme binding,GO:MF,5
+GO:1900024,regulation of substrate adhesion-dependent cell spreading,GO:BP,3
+GO:0016491,oxidoreductase activity,GO:MF,16
+GO:0071375,cellular response to peptide hormone stimulus,GO:BP,8
+GO:0030225,macrophage differentiation,GO:BP,3
+GO:0002011,morphogenesis of an epithelial sheet,GO:BP,3
+GO:0008237,metallopeptidase activity,GO:MF,6
+GO:0072666,establishment of protein localization to vacuole,GO:BP,3
+GO:0009749,response to glucose,GO:BP,4
+GO:1903522,regulation of blood circulation,GO:BP,5
+REAC:R-HSA-8856828,Clathrin-mediated endocytosis,REAC,6
+WP:WP5530,MAPK signaling and ARTD family members,WP,3
+GO:0009206,purine ribonucleoside triphosphate biosynthetic process,GO:BP,4
+GO:0042446,hormone biosynthetic process,GO:BP,3
+GO:0004386,helicase activity,GO:MF,5
+GO:0019731,antibacterial humoral response,GO:BP,3
+REAC:R-HSA-71387,Metabolism of carbohydrates and carbohydrate derivatives,REAC,3
+GO:0006766,vitamin metabolic process,GO:BP,4
+GO:0009887,animal organ morphogenesis,GO:BP,17
+KEGG:05146,Amoebiasis,KEGG,6
+GO:0005765,lysosomal membrane,GO:CC,10
+GO:0001917,photoreceptor inner segment,GO:CC,3
+GO:0140014,mitotic nuclear division,GO:BP,7
+GO:0007159,leukocyte cell-cell adhesion,GO:BP,8
+GO:0006081,aldehyde metabolic process,GO:BP,3
+REAC:R-HSA-380320,Recruitment of NuMA to mitotic centrosomes,REAC,4
+GO:0140030,modification-dependent protein binding,GO:MF,5
+GO:0001818,negative regulation of cytokine production,GO:BP,7
+WP:WP5348,11p11 2 copy number variation syndrome ,WP,3
+GO:0003724,RNA helicase activity,GO:MF,3
+GO:0045921,positive regulation of exocytosis,GO:BP,3
+REAC:R-HSA-15869,Metabolism of nucleotides,REAC,5
+GO:0022612,gland morphogenesis,GO:BP,4
+REAC:R-HSA-68886,M Phase,REAC,9
+GO:0015630,microtubule cytoskeleton,GO:CC,24
+GO:0033116,endoplasmic reticulum-Golgi intermediate compartment membrane,GO:CC,3
+GO:0045727,positive regulation of translation,GO:BP,4
+GO:0030879,mammary gland development,GO:BP,4
+GO:0005179,hormone activity,GO:MF,4
+GO:0031514,motile cilium,GO:CC,7
+GO:0043232,intracellular membraneless organelle,GO:CC,60
+GO:0051899,membrane depolarization,GO:BP,3
+GO:0033273,response to vitamin,GO:BP,3
+GO:0043022,ribosome binding,GO:MF,3
+GO:0001890,placenta development,GO:BP,4
+GO:0051781,positive regulation of cell division,GO:BP,3
+GO:0044325,transmembrane transporter binding,GO:MF,4
+GO:0070936,protein K48-linked ubiquitination,GO:BP,3
+GO:0051216,cartilage development,GO:BP,5
+GO:0050829,defense response to Gram-negative bacterium,GO:BP,3
+GO:0035966,response to topologically incorrect protein,GO:BP,4
+GO:0006754,ATP biosynthetic process,GO:BP,3
+GO:0071495,cellular response to endogenous stimulus,GO:BP,20
+GO:0036126,sperm flagellum,GO:CC,5
+GO:0001501,skeletal system development,GO:BP,10
+GO:0048771,tissue remodeling,GO:BP,4
+GO:0042579,microbody,GO:CC,3
+GO:0016525,negative regulation of angiogenesis,GO:BP,3
+GO:0005814,centriole,GO:CC,4
+GO:0048639,positive regulation of developmental growth,GO:BP,4
+GO:0050821,protein stabilization,GO:BP,5
+GO:0007281,germ cell development,GO:BP,6
+GO:0035249,"synaptic transmission, glutamatergic",GO:BP,3
+WP:WP5055,Burn wound healing,WP,4
+GO:0016779,nucleotidyltransferase activity,GO:MF,4
+GO:1903532,positive regulation of secretion by cell,GO:BP,6
+GO:0001667,ameboidal-type cell migration,GO:BP,5
+GO:0120032,regulation of plasma membrane bounded cell projection assembly,GO:BP,3
+GO:0007034,vacuolar transport,GO:BP,4
+GO:0007411,axon guidance,GO:BP,5
+GO:0043168,anion binding,GO:MF,42
+WP:WP2877,Vitamin D receptor pathway,WP,7
+GO:0038061,non-canonical NF-kappaB signal transduction,GO:BP,3
+GO:0005775,vacuolar lumen,GO:CC,4
+GO:0006412,translation,GO:BP,8
+GO:0004497,monooxygenase activity,GO:MF,3
+REAC:R-HSA-449147,Signaling by Interleukins,REAC,4
+GO:0042391,regulation of membrane potential,GO:BP,8
+GO:0071621,granulocyte chemotaxis,GO:BP,3
+REAC:R-HSA-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,REAC,5
+GO:0042254,ribosome biogenesis,GO:BP,6
+GO:0098839,postsynaptic density membrane,GO:CC,3
+GO:0005813,centrosome,GO:CC,12
+GO:0002262,myeloid cell homeostasis,GO:BP,3
+GO:0030018,Z disc,GO:CC,3
+GO:1902494,catalytic complex,GO:CC,18
+GO:0016773,"phosphotransferase activity, alcohol group as acceptor",GO:MF,9
+REAC:R-HSA-8957322,Metabolism of steroids,REAC,6
+GO:0098742,cell-cell adhesion via plasma-membrane adhesion molecules,GO:BP,3
+GO:0097305,response to alcohol,GO:BP,5
+REAC:R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition,REAC,4
+GO:0043123,positive regulation of canonical NF-kappaB signal transduction,GO:BP,4
+GO:0005874,microtubule,GO:CC,8
+GO:0005929,cilium,GO:CC,12
+REAC:R-HSA-2980736,Peptide hormone metabolism,REAC,4
+GO:0007224,smoothened signaling pathway,GO:BP,3
+WP:WP231,TNF alpha signaling,WP,4
+WP:WP4657,22q11 2 copy number variation syndrome,WP,5
+GO:0007005,mitochondrion organization,GO:BP,7
+GO:0001669,acrosomal vesicle,GO:CC,3
+GO:0030307,positive regulation of cell growth,GO:BP,3
+GO:0006790,sulfur compound metabolic process,GO:BP,5
+GO:0048598,embryonic morphogenesis,GO:BP,6
+GO:0002753,cytoplasmic pattern recognition receptor signaling pathway,GO:BP,3
+GO:0004518,nuclease activity,GO:MF,4
+REAC:R-HSA-9707564,Cytoprotection by HMOX1,REAC,3
+GO:0036064,ciliary basal body,GO:CC,3
+GO:0000287,magnesium ion binding,GO:MF,4
+GO:0071466,cellular response to xenobiotic stimulus,GO:BP,3
+GO:0006403,RNA localization,GO:BP,3
+GO:0007417,central nervous system development,GO:BP,14
+WP:WP4673,Male infertility,WP,5
+KEGG:05144,Malaria,KEGG,3
+KEGG:05016,Huntington disease,KEGG,10
+GO:0030424,axon,GO:CC,9
+GO:0046474,glycerophospholipid biosynthetic process,GO:BP,3
+GO:0016197,endosomal transport,GO:BP,4
+GO:0005819,spindle,GO:CC,6
+GO:0042098,T cell proliferation,GO:BP,3
+GO:0009566,fertilization,GO:BP,3
+GO:0030496,midbody,GO:CC,3
+GO:0009925,basal plasma membrane,GO:CC,4
+REAC:R-HSA-2132295,MHC class II antigen presentation,REAC,4
+REAC:R-HSA-2871796,FCERI mediated MAPK activation,REAC,3
+GO:0019207,kinase regulator activity,GO:MF,4
+GO:0015931,nucleobase-containing compound transport,GO:BP,3
+GO:0042578,phosphoric ester hydrolase activity,GO:MF,6
+GO:0016772,"transferase activity, transferring phosphorus-containing groups",GO:MF,16
+GO:0051301,cell division,GO:BP,8
+GO:0048863,stem cell differentiation,GO:BP,3
+WP:WP2355,Corticotropin releasing hormone signaling,WP,3
+GO:0046395,carboxylic acid catabolic process,GO:BP,3
+REAC:R-HSA-157118,Signaling by NOTCH,REAC,4
+GO:1902495,transmembrane transporter complex,GO:CC,6
+REAC:R-HSA-9748784,Drug ADME,REAC,3
+GO:0031968,organelle outer membrane,GO:CC,3
+GO:0021537,telencephalon development,GO:BP,3
+GO:0140640,"catalytic activity, acting on a nucleic acid",GO:MF,8
+GO:0014069,postsynaptic density,GO:CC,4
+REAC:R-HSA-8953854,Metabolism of RNA,REAC,6
+GO:0045296,cadherin binding,GO:MF,4
+GO:0005739,mitochondrion,GO:CC,21
+GO:0001701,in utero embryonic development,GO:BP,4
+REAC:R-HSA-1640170,Cell Cycle,REAC,12
+GO:0016301,kinase activity,GO:MF,12
+REAC:R-HSA-1474228,Degradation of the extracellular matrix,REAC,3
+GO:0016324,apical plasma membrane,GO:CC,4
+GO:0000151,ubiquitin ligase complex,GO:CC,3
+GO:0031267,small GTPase binding,GO:MF,3
+REAC:R-HSA-1852241,Organelle biogenesis and maintenance,REAC,5
+GO:0032561,guanyl ribonucleotide binding,GO:MF,7
+REAC:R-HSA-5619115,Disorders of transmembrane transporters,REAC,3
+REAC:R-HSA-202733,Cell surface interactions at the vascular wall,REAC,3
+GO:0050906,detection of stimulus involved in sensory perception,GO:BP,4
+GO:0031966,mitochondrial membrane,GO:CC,7
+GO:0098791,Golgi apparatus subcompartment,GO:CC,3
+WP:WP4352,Ciliary landscape,WP,3
+GO:0006605,protein targeting,GO:BP,4
+GO:0009790,embryo development,GO:BP,10
+GO:0005759,mitochondrial matrix,GO:CC,4
+GO:0004674,protein serine/threonine kinase activity,GO:MF,5
+GO:0016607,nuclear speck,GO:CC,3
+WP:WP5473,Cytokine cytokine receptor interaction,WP,3
+REAC:R-HSA-69620,Cell Cycle Checkpoints,REAC,4
+REAC:R-HSA-3700989,Transcriptional Regulation by TP53,REAC,5
+GO:0061659,ubiquitin-like protein ligase activity,GO:MF,3
+WP:WP4172,PI3K Akt signaling,WP,4
+KEGG:04144,Endocytosis,KEGG,6
+KEGG:04141,Protein processing in endoplasmic reticulum,KEGG,4
+GO:0019787,ubiquitin-like protein transferase activity,GO:MF,4
+GO:0005667,transcription regulator complex,GO:CC,3
+GO:0098662,inorganic cation transmembrane transport,GO:BP,5
+GO:0022890,inorganic cation transmembrane transporter activity,GO:MF,5
+GO:0003723,RNA binding,GO:MF,21
+GO:0008380,RNA splicing,GO:BP,3

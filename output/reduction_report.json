@@ -1,0 +1,86 @@
+{
+  "input_pathways": 2585,
+  "input_samples": 30,
+  "stage1_deredundancy": {
+    "output": 575,
+    "reduction_pct": 77.8,
+    "sensitivity_analysis": {
+      "0.7": {
+        "threshold": 0.7,
+        "n_input": 2585,
+        "n_output": 369,
+        "reduction_pct": 85.7
+      },
+      "0.8": {
+        "threshold": 0.8,
+        "n_input": 2585,
+        "n_output": 575,
+        "reduction_pct": 77.8
+      },
+      "0.9": {
+        "threshold": 0.9,
+        "n_input": 2585,
+        "n_output": 876,
+        "reduction_pct": 66.1
+      }
+    }
+  },
+  "stage2_variance_filter": {
+    "output": 473,
+    "removed": 102
+  },
+  "stage3_stability_selection": {
+    "output": 13,
+    "bootstrap_iterations": 200,
+    "threshold": 0.6
+  },
+  "stage4_validation": {
+    "loocv_logistic": {
+      "accuracy": 0.967,
+      "auc": 0.995,
+      "kappa": 0.923
+    },
+    "loocv_rf": {
+      "accuracy": 0.867,
+      "auc": 0.935,
+      "kappa": 0.667
+    },
+    "nested_loocv": {
+      "accuracy": 0.7,
+      "auc": 0.755,
+      "kappa": 0.341,
+      "features_per_fold_mean": 12.1,
+      "features_per_fold_min": 8,
+      "features_per_fold_max": 16
+    },
+    "permutation": {
+      "p_value": 0.001,
+      "n_permutations": 1000,
+      "real_accuracy": 0.967,
+      "mean_perm_accuracy": 0.526,
+      "std_perm_accuracy": 0.121,
+      "max_perm_accuracy": 0.833
+    },
+    "biological_matches": 3,
+    "biological_details": [
+      {
+        "pathway_id": "GO:0071396",
+        "pathway_name": "cellular response to lipid",
+        "ad_keywords": "lipid",
+        "source": "GO:BP"
+      },
+      {
+        "pathway_id": "GO:0045017",
+        "pathway_name": "glycerolipid biosynthetic process",
+        "ad_keywords": "lipid",
+        "source": "GO:BP"
+      },
+      {
+        "pathway_id": "GO:0045916",
+        "pathway_name": "negative regulation of complement activation",
+        "ad_keywords": "complement",
+        "source": "GO:BP"
+      }
+    ]
+  }
+}

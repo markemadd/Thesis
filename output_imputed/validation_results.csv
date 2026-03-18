@@ -1,0 +1,5 @@
+metric,accuracy,auc,kappa,features_per_fold_mean,features_per_fold_min,features_per_fold_max
+LOOCV_logistic,1.0,1.0,1.0,,,
+LOOCV_rf,0.8,0.945,0.5,,,
+permutation_test,1.0,0.525,0.001,,,
+nested_LOOCV_logistic,0.6,0.635,0.143,14.4,9.0,19.0

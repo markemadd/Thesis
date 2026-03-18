@@ -1,0 +1,14 @@
+pathway_id,selection_prob,mean_coef,direction,pathway_name,source,n_genes
+GO:0042181,0.92,0.25273523089314476,↑ in AD,ketone biosynthetic process,GO:BP,3
+GO:0042098,0.91,-0.23522815510606168,↓ in AD,T cell proliferation,GO:BP,3
+GO:0002832,0.905,-0.26133681120537433,↓ in AD,negative regulation of response to biotic stimulus,GO:BP,6
+GO:0005604,0.85,-0.2581951293339564,↓ in AD,basement membrane,GO:CC,6
+GO:0001525,0.79,0.17917691363118596,↑ in AD,angiogenesis,GO:BP,17
+GO:0007565,0.735,-0.14348100898981794,↓ in AD,female pregnancy,GO:BP,8
+GO:0009790,0.715,-0.13329264274675098,↓ in AD,embryo development,GO:BP,10
+GO:0071396,0.67,-0.09684615231809439,↓ in AD,cellular response to lipid,GO:BP,16
+GO:0045017,0.67,0.15285342318652062,↑ in AD,glycerolipid biosynthetic process,GO:BP,6
+REAC:R-HSA-199991,0.645,0.1114218290338386,↑ in AD,Membrane Trafficking,REAC,13
+GO:0005622,0.63,-0.07900590306507116,↓ in AD,intracellular anatomical structure,GO:CC,197
+GO:0019430,0.6,-0.08753183639369429,↓ in AD,removal of superoxide radicals,GO:BP,3
+GO:0045916,0.6,-0.07000648357651336,↓ in AD,negative regulation of complement activation,GO:BP,5

@@ -1,0 +1,18 @@
+pathway_id,selection_prob,mean_coef,direction,pathway_name,source,n_genes
+GO:0021537,0.945,0.3711964449803131,↑ in AD,telencephalon development,GO:BP,3
+REAC:R-HSA-9657689,0.885,-0.22592062253206127,↓ in AD,Defective SERPING1 causes hereditary angioedema,REAC,3
+GO:0001867,0.835,-0.1505342856039398,↓ in AD,"complement activation, lectin pathway",GO:BP,8
+GO:0045824,0.83,-0.15509257824564598,↓ in AD,negative regulation of innate immune response,GO:BP,5
+GO:0030500,0.785,0.1968405508420833,↑ in AD,regulation of bone mineralization,GO:BP,4
+GO:0019731,0.78,-0.21077398788308152,↓ in AD,antibacterial humoral response,GO:BP,3
+WP:WP5089,0.74,-0.14016720845261185,↓ in AD,Kinin Kallikrein pathway,WP,5
+GO:0009749,0.7,0.12700832761750797,↑ in AD,response to glucose,GO:BP,4
+GO:0051216,0.695,-0.1034238444504531,↓ in AD,cartilage development,GO:BP,5
+GO:0009152,0.69,-0.14839154808580574,↓ in AD,purine ribonucleotide biosynthetic process,GO:BP,7
+GO:0005765,0.665,-0.1055720199394188,↓ in AD,lysosomal membrane,GO:CC,10
+GO:1900076,0.66,-0.10461865047691848,↓ in AD,regulation of cellular response to insulin stimulus,GO:BP,4
+GO:2001252,0.635,-0.1323114825770962,↓ in AD,positive regulation of chromosome organization,GO:BP,4
+GO:0009790,0.635,-0.09504796366108752,↓ in AD,embryo development,GO:BP,10
+GO:0002920,0.62,-0.08065051767686177,↓ in AD,regulation of humoral immune response,GO:BP,8
+GO:0022612,0.62,0.10452997640975094,↑ in AD,gland morphogenesis,GO:BP,4
+REAC:R-HSA-8953854,0.615,0.11963088675708869,↑ in AD,Metabolism of RNA,REAC,6

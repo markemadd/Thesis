@@ -1,0 +1,16 @@
+{
+  "total_proteins": 377,
+  "tier1_count": 99,
+  "tier2_count": 49,
+  "tier3_count": 229,
+  "tier1_method": "MissForest (IterativeImputer + RandomForest)",
+  "tier2_method": "QRILC (left-censored truncated normal)",
+  "tier3_method": "No imputation (>80% missing)",
+  "total_orig_missing": 7887,
+  "total_imputed": 1350,
+  "total_remaining_missing": 6537,
+  "tier_thresholds": {
+    "tier1_max": 0.5,
+    "tier2_max": 0.8
+  }
+}
