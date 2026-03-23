@@ -212,4 +212,4 @@ ELASTIC_NET_L1_RATIOS = [0.5, 0.7, 0.9]
 
 ## License
 
-This project is part of a master's thesis. Please contact the author before reusing.
+This project is part of a bachelor's thesis.
