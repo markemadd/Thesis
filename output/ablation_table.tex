@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\caption{Ablation study: effect of ssGSEA weighting scheme on pipeline performance. Nested LOOCV is the primary unbiased metric; standard LOOCV is provided as a reference (known to be inflated due to feature pre-selection).}
+\label{tab:ablation}
+\begin{tabular}{lrrrrrrl}
+\toprule
+Condition & \#Stable & \multicolumn{3}{c}{Nested LOOCV (primary)} & Std Acc & Jaccard$_D$ \\
+\cmidrule(lr){3-5}
+ & & Acc & AUC & $\kappa$ & (biased) & \\
+\midrule
+(A) Unweighted  [w=1] & 7 & 0.833 & 0.785 & 0.634 & 0.967 & 0.636 \\
+(B) DisGeNET-only  [w=1+α·d] & 10 & 0.767 & 0.855 & 0.512 & 0.967 & 0.909 \\
+(C) STRING-only  [w=1+β·c] & 8 & 0.800 & 0.800 & 0.571 & 0.967 & 0.727 \\
+\textbf{(D) Combined  [w=1+α·d+β·c]} & 11 & 0.800 & 0.840 & 0.571 & 0.967 & 1.000 \\
+\bottomrule
+\multicolumn{8}{l}{\small Nested LOOCV uses 50 inner bootstraps per fold; conditions B--D use $\alpha=\beta=1$; Jaccard$_D$ = overlap with condition D stable set.} \\
+\end{tabular}
+\end{table}

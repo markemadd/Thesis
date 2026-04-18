@@ -1,0 +1,14 @@
+pathway_id,pathway_name,stability_pct,direction,biological_theme,higginbotham_match,bader_match,source_match,overlap_type,novelty_flag
+GO:0042181,Ketone biosynthetic process,92.0,↑AD,metabolism,False,True,Bader,theme,False
+GO:0042098,T cell proliferation,91.0,↑AD,immune dysregulation,False,True,Bader,theme,False
+GO:0002832,Neg. regulation of response to biotic stimulus,90.5,↑AD,neuroinflammation,True,True,Both,theme,False
+GO:0005604,Basement membrane,85.0,↑AD,BBB & vascular,False,True,Bader,theme,False
+GO:0001525,Angiogenesis,79.0,↑AD,BBB & vascular,False,True,Bader,theme,False
+GO:0007565,Female pregnancy,73.5,↑AD,novel,False,False,Neither,novel,True
+GO:0009790,Embryo development,71.5,↑AD,novel,False,False,Neither,novel,True
+GO:0071396,Cellular response to lipid,67.0,↑AD,lipid metabolism,True,True,Both,theme,False
+GO:0045017,Glycerolipid biosynthetic process,67.0,↑AD,lipid metabolism,True,True,Both,theme,False
+REAC:R-HSA-199991,Membrane Trafficking,64.5,↑AD,cellular trafficking,True,False,Higginbotham,theme,False
+GO:0005622,Intracellular anatomical structure,63.0,↑AD,cellular trafficking,True,False,Higginbotham,theme,False
+GO:0019430,Removal of superoxide radicals,60.0,↑AD,oxidative stress,True,False,Higginbotham,theme,False
+GO:0045916,Neg. regulation of complement activation,60.0,↑AD,complement cascade,True,True,Both,theme,False

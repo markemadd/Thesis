@@ -1,0 +1,9 @@
+phase,wall_time_s,peak_mem_mb,big_o
+Phase 1: Preprocessing + Imputation,2.378,46.4,"O(N·P·k) — KNN imputation; N=samples, P=proteins, k=5 neighbours"
+Phase 2: Pathway Mapping,0.039,4.2,"O(P·G) — gene-set index construction; P=pathways, G=avg genes/pathway"
+Phase 3: ssGSEA Scoring,37.912,12.3,"O(S·P·N·log N) — rank-sort + cumsum per (sample,pathway); S=samples"
+Stage 1: De-Redundancy,34.344,258.3,O(P²·G + P²·S) — Jaccard matrix + score correlation; P=pathways
+Stage 2: Variance Filtering,0.409,0.0,"O(P'·S) — IQR per pathway; P'=non-redundant pathways, S=samples"
+Stage 3: Stability Selection,236.401,3.1,O(B·C·iter·S·F) — SAGA Elastic Net × B bootstrap × C inner folds
+Stage 4a: Standard LOOCV,3.798,0.6,O(n²·p) — LBFGS logistic regression × n LOOCV folds
+Stage 4b: Nested LOOCV,3405.034,3.6,O(n·B_inner·C·iter·S·F) — inner stability selection per LOOCV fold

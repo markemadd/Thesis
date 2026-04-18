@@ -1,0 +1,55 @@
+
+===========================================================================
+  TASK 3 — Binomial CIs + Permutation Null Distribution
+===========================================================================
+
+[1/3] Computing Clopper-Pearson 95% confidence intervals...
+
+===========================================================================
+  CLOPPER-PEARSON 95% CONFIDENCE INTERVALS (n=30)
+===========================================================================
+  Metric                                        k/n      Acc      95% CI                 Width
+  ──────────────────────────────────────────────────────────────────────
+  Standard LOOCV (Logistic Regression)          29/30     96.7%   [0.828, 0.999]    0.171
+  Nested LOOCV (Logistic Regression)            21/30     70.0%   [0.506, 0.853]    0.347
+  Imputed Pipeline — Nested LOOCV               18/30     60.0%   [0.406, 0.773]    0.367
+  ──────────────────────────────────────────────────────────────────────
+  Method: Clopper-Pearson exact (Beta distribution quantiles)
+===========================================================================
+  ✓ LaTeX CI table → /Users/markemad/Documents/Spring 2026/Thesis/output/confidence_intervals.tex
+
+[2/3] Regenerating permutation null distribution...
+  Using RANDOM_STATE=42, N=1000 permutations
+  (This matches the original pipeline exactly → reproducible results)
+  Feature matrix: 30 samples × 13 pathways
+  Running 1000 permutations...
+    100/1000  (mean=0.531, n≥0.967: 0)
+    200/1000  (mean=0.531, n≥0.967: 0)
+    300/1000  (mean=0.527, n≥0.967: 0)
+    400/1000  (mean=0.528, n≥0.967: 0)
+    500/1000  (mean=0.526, n≥0.967: 0)
+    600/1000  (mean=0.526, n≥0.967: 0)
+    700/1000  (mean=0.526, n≥0.967: 0)
+    800/1000  (mean=0.527, n≥0.967: 0)
+    900/1000  (mean=0.527, n≥0.967: 0)
+    1000/1000  (mean=0.526, n≥0.967: 0)
+  Stored mean: 0.526 | Regenerated: 0.526 — ✓ matches
+
+[3/3] Generating permutation null distribution plot...
+  ✓ Permutation plot → /Users/markemad/Documents/Spring 2026/Thesis/output/permutation_null_distribution.png
+
+===========================================================================
+  SUMMARY
+===========================================================================
+  Permutation test: 0/1000 ≥ 0.967  →  p = 0.0010
+  Null distribution: mean=0.526, SD=0.121, max=0.833
+
+  Clopper-Pearson 95% CIs:
+    Standard LOOCV (Logistic Regression)
+      29/30 = 96.7%  → [0.828, 0.999]
+    Nested LOOCV (Logistic Regression)
+      21/30 = 70.0%  → [0.506, 0.853]
+    Imputed Pipeline — Nested LOOCV
+      18/30 = 60.0%  → [0.406, 0.773]
+===========================================================================
+

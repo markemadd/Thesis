@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+\centering
+\caption{Clopper-Pearson 95\% confidence intervals for LOOCV accuracy (n=30)}
+\label{tab:ci}
+\begin{tabular}{lcccc}
+\toprule
+Metric & $k$/$n$ & Accuracy & 95\% CI & Width \\
+\midrule
+Standard LOOCV (Logistic Regression) & 29/30 & 96.7% & [0.828,\;0.999] & 0.171 \\
+Nested LOOCV (Logistic Regression) & 21/30 & 70.0% & [0.506,\;0.853] & 0.347 \\
+Imputed Pipeline — Nested LOOCV & 18/30 & 60.0% & [0.406,\;0.773] & 0.367 \\
+\bottomrule
+\multicolumn{5}{l}{\small Method: Clopper-Pearson exact (Beta distribution quantiles)} \\
+\end{tabular}
+\end{table}
